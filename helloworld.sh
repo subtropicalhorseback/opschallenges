@@ -21,6 +21,8 @@
 
 # Main
 
+python3 -c "print('Hewwo Worwd')"
+
 echo "I am working perfectly!"
 
 
