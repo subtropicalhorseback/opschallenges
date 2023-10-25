@@ -17,8 +17,7 @@
 # Declaration of functions
 
 print_logins() {
-    last | grep -vE "system boot" 
-    && echo This is the login history
+    last | grep -vE "system boot" && echo This is the login history
 }
 
 
