@@ -24,9 +24,8 @@ print_logins() {
 
 # Main
 
-print_logins
-print_logins
-print_logins
-
+for i in {1,2,3}; do
+    print_logins
+done
 
 # End
