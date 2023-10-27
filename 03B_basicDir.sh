@@ -10,14 +10,17 @@
 # 2) puts the names of the directories in an array; 
 # 3) references the array variable to create a new text file in each directory
 
-
+#####################
 # Declaration of variables
-arrayFour=()
-arrayD=()
 
+arrayFour=() #this array is the input
+arrayD=() #this array is the list of Directories
+
+#####################
 # Declaration of functions
 
 TheThing(){
+
     #define the array
     arrayFour=("1" "2" "3" "4")
 
@@ -47,6 +50,8 @@ TheThing(){
     done
 
 }
+
+#####################
 # Main
 
 TheThing
