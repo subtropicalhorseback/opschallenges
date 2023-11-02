@@ -11,16 +11,16 @@
 # Declaration of functions
 
 # output 24 hours of system event logs
-function Export24 {Get-WinEvent -LogName 'System' -MaxEvents 500 | Where-Object { $_.TimeCreated -ge (Get-Date).AddDays(-1) } | Out-File "$env:USERPROFILE\Documents\24HourSystemLogs.txt"}
+function Export24 {Get-WinEvent -LogName 'System' -MaxEvents 500 | Where-Object { $_.TimeCreated -ge (Get-Date).AddDays(-1) } | Format-List | Out-File "$env:USERPROFILE\Documents\24HourSystemLogs.txt"}
 
 # output of error logs
-function Errors {Get-WinEvent -LogName 'System' -MaxEvents 500 | Where-Object { $_.LevelDisplayName -eq 'Error' } | Out-File "$env:USERPROFILE\Documents\ErrorLogs.txt"}
+function Errors {Get-WinEvent -LogName 'System' -MaxEvents 500 | Where-Object { $_.LevelDisplayName -eq 'Error' } | Format-List | Out-File "$env:USERPROFILE\Documents\ErrorLogs.txt"}
 
 # display all the ID 16 events
-function ShowID16 {Get-WinEvent -LogName 'System' -MaxEvents 500 | Where-Object { $_.Id -eq 16 } | Format-Table -AutoSize}
+function ShowID16 {Get-WinEvent -LogName 'System' -MaxEvents 500 | Where-Object { $_.Id -eq 16 } | Format-List}
 
 # give me 20
-function Show20 {Get-WinEvent -LogName 'System' -MaxEvents 20 | Format-Table -AutoSize}
+function Show20 {Get-WinEvent -LogName 'System' -MaxEvents 20 | Format-List}
 
 #  source check for 500 events
 function Show500Sources {Get-WinEvent -LogName 'System' -MaxEvents 500 | Format-List -Property ProviderName, Message}
