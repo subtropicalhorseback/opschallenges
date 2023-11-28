@@ -35,9 +35,13 @@ destination="Syslog_$(date +'%Y%m%d-%H%M%S')"
 # Main
 
 echo "Copying file"
-echo "from" $targetfile
-echo "to" && pwd
+echo "from" 
+echo $targetfile
+echo "to"
+pwd
 echo "as of $(date +'%H:%M')"
+
+# filler
 echo "..."
 sleep 1
 echo "..."
@@ -45,7 +49,9 @@ sleep 1
 echo "..."
 sleep 2
 ##good things are worth waiting - this is a UI/UX choice^ because people feel like "it's doing something"
+
 cp $targetfile "./$destination.txt" && echo "Successfully copied"
+
 echo ""
 
 # End
