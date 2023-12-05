@@ -2,17 +2,22 @@
 
 # assignment: 
   #   Script must ask the user for a file path and read a user input string into a variable. --- CHECK
-   #  Script must use the os.walk() function from the os library.
-    # Script must enclose the os.walk() function within a python function that hands it the user input file path.
-    # Save output as .txt
-    # Open the .txt with libre office
-   #  Second function that creates a directory with os.makdirs  --- CHECK
+  #   Second function that creates a directory with os.makdirs  --- CHECK
+
+  #   Script must use the os.walk() function from the os library. --- CHECK
+  #   Script must enclose the os.walk() function within a python function that hands it the user input file path. --- CHECK
+
+  #   Save output as .txt
+
   #   Create sub-directories with names (string1, string2, string3)
 
-# reference: https://www.python.org/ftp/python/doc/quick-ref.1.3.html
+  #   Open the .txt with libre office
+
+
 
 # get libraries
 import os
+import subprocess
 
 # define variables
 
@@ -105,9 +110,28 @@ def directories(a):
                 else:
                     print("Invalid response")
 
-    print("the next thing")
-                
+def walker(a):
+    ##   get username
+    username = os.popen("whoami").read().strip()
+
+    ##   get file name
+    file = input("What would you like to name the saved log of the current contents of your target directory? ")
+
+    ##   file location
+    fileloc = f"/home/{username}/Documents/PythonOutput/{file}.txt"
+    print("Ok, saving to", fileloc)
+
+    ##   create the file
+    subprocess.run(["touch", fileloc])
+    
+    for dirpath, dirnames, filenames in os.walk(a):
+    #    print(f"Current directory: {dirpath}")
+    #    print("Subdirectories:", dirnames)
+    #    print("Files:", filenames)
+    #    print()
+
 
 # execute
 
-directories(targetDir)
+# directories(targetDir)
+walker(targetDir)
