@@ -18,6 +18,7 @@
 # get libraries
 import os
 import subprocess
+from datetime import datetime
 
 # define variables
 
@@ -118,20 +119,22 @@ def walker(a):
     file = input("What would you like to name the saved log of the current contents of your target directory? ")
 
     ##   file location
-    fileloc = f"/home/{username}/Documents/PythonOutput/{file}.txt"
+    fileloc = f"/home/{username}/Documents/{file}.txt"
     print("Ok, saving to", fileloc)
 
     ##   create the file
     subprocess.run(["touch", fileloc])
     
-    for dirpath, dirnames, filenames in os.walk(a):
-    #    print(f"Current directory: {dirpath}")
-    #    print("Subdirectories:", dirnames)
-    #    print("Files:", filenames)
-    #    print()
+    with open(fileloc, "w") as outputloc:
+        current_time = datetime.now().strftime("%Y-%m-%d_%H:%M:%S")
+        outputloc.write(f"The following information is accurate as of {current_time}\n\n")
+        for dirpath, dirnames, filenames in os.walk(a):
+            outputloc.write(f"Current directory: {dirpath}\n")
+            outputloc.write("Subdirectories: {}\n".format(', '.join(dirnames)))
+            outputloc.write("Files: {}\n\n".format(', '.join(filenames)))
 
 
 # execute
 
 # directories(targetDir)
-walker(targetDir)
+# walker(targetDir)
