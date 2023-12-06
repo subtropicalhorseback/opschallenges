@@ -3,15 +3,11 @@
 # assignment: 
   #   Script must ask the user for a file path and read a user input string into a variable. --- CHECK
   #   Second function that creates a directory with os.makdirs  --- CHECK
-
+  #   Create sub-directories with names (string1, string2, string3) --- CHECK
   #   Script must use the os.walk() function from the os library. --- CHECK
   #   Script must enclose the os.walk() function within a python function that hands it the user input file path. --- CHECK
-
-  #   Save output as .txt
-
-  #   Create sub-directories with names (string1, string2, string3)
-
-  #   Open the .txt with libre office
+  #   Save output as .txt --- CHECK
+  #   Open the .txt with libre office -- no
 
 
 
@@ -62,7 +58,7 @@ def directories(a):
             elif makeit == "n" or makeit == "N":
 
                 ##   ask if user wants to go again
-                again = input("Do you want to try looking for another directory? (y/n): ")
+                again = str(input("Do you want to try looking for another directory? (y/n): "))
 
                 ##   user wants to go again; exit to top while loop
                 if again == "y" or again == "Y":
@@ -72,7 +68,7 @@ def directories(a):
                     target2 = str(input("Please enter a different file path: "))
                 
                     ##   print new file back to user
-                    print("Okay, now looking for",target2)
+                    print("Now targeting",target2)
                 
                     ##   redefine the target
                     a = target2
@@ -80,8 +76,8 @@ def directories(a):
             
                 ##   user does not want to go again; end the process
                 elif again == "n" or again == "N":
-                    print("Bye!")
-                    return
+                    print("Okay, done searching.")
+                    break
                 
                 ##   bad answer
                 else:
@@ -95,7 +91,7 @@ def directories(a):
             
 ##   ask if user wants to go again
             while True:
-                again = input("Do you want to try looking for another directory? (y/n): ")
+                again = str(input("Do you want to try looking for another directory? (y/n): "))
 
                 ##   user wants to go again; exit to top while loop
                 if again == "y" or again == "Y":
@@ -104,19 +100,49 @@ def directories(a):
             
                 ##   user does not want to go again; end the process
                 elif again == "n" or again == "N":
-                    print("Bye!")
-                    return
+                    print("Okay, done searching!")
+                    break
                 
                 ##   bad answer
                 else:
                     print("Invalid response")
+
+    subDirs = str(input("Do you want to create subdirectories? (y/n): "))
+    while True:
+        
+        if subDirs == "y" or subDirs == "Y":
+            try:
+                num_subdirs = int(input("How many subdirectories do you want to create? "))
+                for i in range(1, num_subdirs + 1):
+                    subdir_name = str(input(f"Enter the name for subdirectory {i}: "))
+                    os.mkdir(os.path.join(a, subdir_name))
+                    print(f"Created subdirectory: {subdir_name}")
+
+                print("Subdirectories created successfully.")
+                break
+
+            except ValueError:
+                print("Invalid input. Please enter a valid number.")
+
+            except Exception as err:
+                print(f"Encountered an error: {err}")
+                break
+
+        elif subDirs == "n" or subDirs == "N":
+            print("Okay, no subdirectories will be created.")
+            break
+
+        else:
+            print("Invalid response")
+
+    
 
 def walker(a):
     ##   get username
     username = os.popen("whoami").read().strip()
 
     ##   get file name
-    file = input("What would you like to name the saved log of the current contents of your target directory? ")
+    file = str(input("What would you like to name the saved log of the current contents of your target directory? "))
 
     ##   file location
     fileloc = f"/home/{username}/Documents/{file}.txt"
@@ -136,5 +162,5 @@ def walker(a):
 
 # execute
 
-# directories(targetDir)
-# walker(targetDir)
+directories(targetDir)
+walker(targetDir)
