@@ -18,8 +18,6 @@
 
 import logging
 import smtplib
-import ssl
-import subprocess
 import time
 from datetime import datetime
 from email.mime.multipart import MIMEMultipart
@@ -43,12 +41,9 @@ def send_email(sender, receiver, password, subject, body):
     msg['Subject'] = subject
     msg.attach(MIMEText(body, "plain"))
 
-    # engage ssl
-    context = ssl.create_default_context()
-    
     # handle the actual email transmission via google/smtp
     with smtplib.SMTP("smtp.gmail.com", 587) as server:
-        server.starttls(context=context)
+        server.starttls()
         server.login(sender, password)
         server.sendmail(sender, receiver, msg.as_string())
 
@@ -85,10 +80,10 @@ def body():
         sender = "defaultemail@gmail.com"
 
     # get sender email password
-    # password = input("Enter that email account's password to authenticate: ")
-    # if not password:
-    #    print("No password, no email. \n\n Exiting.....")
-    #    exit()
+    password = input("Enter that email account's password to authenticate: ")
+    if not password:
+        print("No password, no email. \n\n Exiting.....")
+        exit()
 
     # get receiver email
     receiver = input("Enter a recipient email: ")
@@ -100,8 +95,7 @@ def body():
         destIP = "8.8.8.8"
 
     # set logging variables to empty before the ping loop
-    last_status = 0
-    last_time = 0
+    last_status = "empty"
 
     # infinite loop for pinging
     while True:
@@ -110,25 +104,28 @@ def body():
         try:
             # define the status and time as the output from pinging
             current_status, current_time = onePingonly(destIP)
+            print(f"No change to status ({current_status}) as of {current_time}.")
            
             # evaluate for change
             if current_status != last_status:
+
+                print("\nThere's been a change!\n     Sending you an email now.\n")
             
                 # log status change
                 logging.info(f"{current_time} - Status changed for {destIP} from {last_status} to {current_status}")
             
+                # update variable to monitor for new changes
+                last_status = current_status
+
                 # send email on status change 
-                ###NEED TO ADD 'PASSWORD' THIRD
-                send_email(sender, receiver, f"Ping status change for {destIP} as of {current_time} from {last_status} to {current_status}.", f"Currently, {current_status}")
-            
-            # update variable to monitor for new changes
-            last_status = current_status
+                send_email(sender, receiver, password, f"Ping status change for {destIP} as of {current_time} from {last_status} to {current_status}.", f"Currently, {current_status}")
 
             # snooze 2 seconds
             time.sleep(2)
 
         # error handling    
         except Exception as e:
+            print(f"There's an error: {e}")
             logging.error(f"Error during pinging: {e}")
 
 

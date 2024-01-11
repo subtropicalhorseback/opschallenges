@@ -711,3 +711,1405 @@ ERROR:root:Error during pinging: (535, b'5.7.8 Username and Password not accepte
 INFO:root:10-01-24 17:58:48 - Status changed for 8.8.8.8 from 0 to Remote Host appears UP
 ERROR:root:Error during pinging: (535, b'5.7.8 Username and Password not accepted. For more information, go to\n5.7.8  https://support.google.com/mail/?p=BadCredentials c15-20020a4aaccf000000b005955765f4fasm973268oon.17 - gsmtp')
 INFO:root:10-01-24 17:58:48 - Status changed for 8.8.8.8 from 0 to Remote Host appears UP
+INFO:root:10-01-24 18:34:23 - Status changed for 3.134.9.225 from 0 to Remote Host appears UP
+ERROR:root:Error during pinging: send_email() missing 1 required positional argument: 'body'
+INFO:root:10-01-24 18:34:23 - Status changed for 3.134.9.225 from 0 to Remote Host appears UP
+ERROR:root:Error during pinging: send_email() missing 1 required positional argument: 'body'
+INFO:root:10-01-24 18:34:23 - Status changed for 3.134.9.225 from 0 to Remote Host appears UP
+ERROR:root:Error during pinging: send_email() missing 1 required positional argument: 'body'
+INFO:root:10-01-24 18:34:23 - Status changed for 3.134.9.225 from 0 to Remote Host appears UP
+ERROR:root:Error during pinging: send_email() missing 1 required positional argument: 'body'
+INFO:root:10-01-24 18:34:23 - Status changed for 3.134.9.225 from 0 to Remote Host appears UP
+ERROR:root:Error during pinging: send_email() missing 1 required positional argument: 'body'
+INFO:root:10-01-24 18:34:23 - Status changed for 3.134.9.225 from 0 to Remote Host appears UP
+ERROR:root:Error during pinging: send_email() missing 1 required positional argument: 'body'
+INFO:root:10-01-24 18:34:23 - Status changed for 3.134.9.225 from 0 to Remote Host appears UP
+ERROR:root:Error during pinging: send_email() missing 1 required positional argument: 'body'
+INFO:root:10-01-24 18:34:23 - Status changed for 3.134.9.225 from 0 to Remote Host appears UP
+ERROR:root:Error during pinging: send_email() missing 1 required positional argument: 'body'
+INFO:root:10-01-24 18:34:23 - Status changed for 3.134.9.225 from 0 to Remote Host appears UP
+ERROR:root:Error during pinging: send_email() missing 1 required positional argument: 'body'
+INFO:root:10-01-24 18:34:23 - Status changed for 3.134.9.225 from 0 to Remote Host appears UP
+ERROR:root:Error during pinging: send_email() missing 1 required positional argument: 'body'
+INFO:root:10-01-24 18:34:23 - Status changed for 3.134.9.225 from 0 to Remote Host appears UP
+ERROR:root:Error during pinging: send_email() missing 1 required positional argument: 'body'
+INFO:root:10-01-24 18:34:23 - Status changed for 3.134.9.225 from 0 to Remote Host appears UP
+ERROR:root:Error during pinging: send_email() missing 1 required positional argument: 'body'
+INFO:root:10-01-24 18:34:23 - Status changed for 3.134.9.225 from 0 to Remote Host appears UP
+ERROR:root:Error during pinging: send_email() missing 1 required positional argument: 'body'
+INFO:root:10-01-24 18:34:23 - Status changed for 3.134.9.225 from 0 to Remote Host appears UP
+ERROR:root:Error during pinging: send_email() missing 1 required positional argument: 'body'
+INFO:root:10-01-24 18:34:23 - Status changed for 3.134.9.225 from 0 to Remote Host appears UP
+ERROR:root:Error during pinging: send_email() missing 1 required positional argument: 'body'
+INFO:root:10-01-24 18:34:23 - Status changed for 3.134.9.225 from 0 to Remote Host appears UP
+ERROR:root:Error during pinging: send_email() missing 1 required positional argument: 'body'
+INFO:root:10-01-24 18:34:23 - Status changed for 3.134.9.225 from 0 to Remote Host appears UP
+ERROR:root:Error during pinging: send_email() missing 1 required positional argument: 'body'
+INFO:root:10-01-24 18:34:23 - Status changed for 3.134.9.225 from 0 to Remote Host appears UP
+ERROR:root:Error during pinging: send_email() missing 1 required positional argument: 'body'
+INFO:root:10-01-24 18:34:23 - Status changed for 3.134.9.225 from 0 to Remote Host appears UP
+ERROR:root:Error during pinging: send_email() missing 1 required positional argument: 'body'
+INFO:root:10-01-24 18:34:23 - Status changed for 3.134.9.225 from 0 to Remote Host appears UP
+ERROR:root:Error during pinging: send_email() missing 1 required positional argument: 'body'
+INFO:root:10-01-24 18:34:23 - Status changed for 3.134.9.225 from 0 to Remote Host appears UP
+ERROR:root:Error during pinging: send_email() missing 1 required positional argument: 'body'
+INFO:root:10-01-24 18:34:23 - Status changed for 3.134.9.225 from 0 to Remote Host appears UP
+ERROR:root:Error during pinging: send_email() missing 1 required positional argument: 'body'
+INFO:root:10-01-24 18:34:23 - Status changed for 3.134.9.225 from 0 to Remote Host appears UP
+ERROR:root:Error during pinging: send_email() missing 1 required positional argument: 'body'
+INFO:root:10-01-24 18:34:24 - Status changed for 3.134.9.225 from 0 to Remote Host appears UP
+ERROR:root:Error during pinging: send_email() missing 1 required positional argument: 'body'
+INFO:root:10-01-24 18:34:24 - Status changed for 3.134.9.225 from 0 to Remote Host appears UP
+ERROR:root:Error during pinging: send_email() missing 1 required positional argument: 'body'
+INFO:root:10-01-24 18:34:24 - Status changed for 3.134.9.225 from 0 to Remote Host appears UP
+ERROR:root:Error during pinging: send_email() missing 1 required positional argument: 'body'
+INFO:root:10-01-24 18:34:24 - Status changed for 3.134.9.225 from 0 to Remote Host appears UP
+ERROR:root:Error during pinging: send_email() missing 1 required positional argument: 'body'
+INFO:root:10-01-24 18:34:24 - Status changed for 3.134.9.225 from 0 to Remote Host appears UP
+ERROR:root:Error during pinging: send_email() missing 1 required positional argument: 'body'
+INFO:root:10-01-24 18:34:24 - Status changed for 3.134.9.225 from 0 to Remote Host appears UP
+ERROR:root:Error during pinging: send_email() missing 1 required positional argument: 'body'
+INFO:root:10-01-24 18:34:24 - Status changed for 3.134.9.225 from 0 to Remote Host appears UP
+ERROR:root:Error during pinging: send_email() missing 1 required positional argument: 'body'
+INFO:root:10-01-24 18:34:24 - Status changed for 3.134.9.225 from 0 to Remote Host appears UP
+ERROR:root:Error during pinging: send_email() missing 1 required positional argument: 'body'
+INFO:root:10-01-24 18:34:24 - Status changed for 3.134.9.225 from 0 to Remote Host appears UP
+ERROR:root:Error during pinging: send_email() missing 1 required positional argument: 'body'
+INFO:root:10-01-24 18:34:24 - Status changed for 3.134.9.225 from 0 to Remote Host appears UP
+ERROR:root:Error during pinging: send_email() missing 1 required positional argument: 'body'
+INFO:root:10-01-24 18:34:24 - Status changed for 3.134.9.225 from 0 to Remote Host appears UP
+ERROR:root:Error during pinging: send_email() missing 1 required positional argument: 'body'
+INFO:root:10-01-24 18:34:24 - Status changed for 3.134.9.225 from 0 to Remote Host appears UP
+ERROR:root:Error during pinging: send_email() missing 1 required positional argument: 'body'
+INFO:root:10-01-24 18:34:24 - Status changed for 3.134.9.225 from 0 to Remote Host appears UP
+ERROR:root:Error during pinging: send_email() missing 1 required positional argument: 'body'
+INFO:root:10-01-24 18:34:24 - Status changed for 3.134.9.225 from 0 to Remote Host appears UP
+ERROR:root:Error during pinging: send_email() missing 1 required positional argument: 'body'
+INFO:root:10-01-24 18:34:24 - Status changed for 3.134.9.225 from 0 to Remote Host appears UP
+ERROR:root:Error during pinging: send_email() missing 1 required positional argument: 'body'
+INFO:root:10-01-24 18:34:24 - Status changed for 3.134.9.225 from 0 to Remote Host appears UP
+ERROR:root:Error during pinging: send_email() missing 1 required positional argument: 'body'
+INFO:root:10-01-24 18:34:24 - Status changed for 3.134.9.225 from 0 to Remote Host appears UP
+ERROR:root:Error during pinging: send_email() missing 1 required positional argument: 'body'
+INFO:root:10-01-24 18:34:24 - Status changed for 3.134.9.225 from 0 to Remote Host appears UP
+ERROR:root:Error during pinging: send_email() missing 1 required positional argument: 'body'
+INFO:root:10-01-24 18:34:24 - Status changed for 3.134.9.225 from 0 to Remote Host appears UP
+ERROR:root:Error during pinging: send_email() missing 1 required positional argument: 'body'
+INFO:root:10-01-24 18:34:24 - Status changed for 3.134.9.225 from 0 to Remote Host appears UP
+ERROR:root:Error during pinging: send_email() missing 1 required positional argument: 'body'
+INFO:root:10-01-24 18:34:24 - Status changed for 3.134.9.225 from 0 to Remote Host appears UP
+ERROR:root:Error during pinging: send_email() missing 1 required positional argument: 'body'
+INFO:root:10-01-24 18:34:24 - Status changed for 3.134.9.225 from 0 to Remote Host appears UP
+ERROR:root:Error during pinging: send_email() missing 1 required positional argument: 'body'
+INFO:root:10-01-24 18:34:24 - Status changed for 3.134.9.225 from 0 to Remote Host appears UP
+ERROR:root:Error during pinging: send_email() missing 1 required positional argument: 'body'
+INFO:root:10-01-24 18:34:24 - Status changed for 3.134.9.225 from 0 to Remote Host appears UP
+ERROR:root:Error during pinging: send_email() missing 1 required positional argument: 'body'
+INFO:root:10-01-24 18:34:24 - Status changed for 3.134.9.225 from 0 to Remote Host appears UP
+ERROR:root:Error during pinging: send_email() missing 1 required positional argument: 'body'
+INFO:root:10-01-24 18:34:24 - Status changed for 3.134.9.225 from 0 to Remote Host appears UP
+ERROR:root:Error during pinging: send_email() missing 1 required positional argument: 'body'
+INFO:root:10-01-24 18:34:24 - Status changed for 3.134.9.225 from 0 to Remote Host appears UP
+ERROR:root:Error during pinging: send_email() missing 1 required positional argument: 'body'
+INFO:root:10-01-24 18:34:24 - Status changed for 3.134.9.225 from 0 to Remote Host appears UP
+ERROR:root:Error during pinging: send_email() missing 1 required positional argument: 'body'
+INFO:root:10-01-24 18:34:25 - Status changed for 3.134.9.225 from 0 to Remote Host appears UP
+ERROR:root:Error during pinging: send_email() missing 1 required positional argument: 'body'
+INFO:root:10-01-24 18:34:25 - Status changed for 3.134.9.225 from 0 to Remote Host appears UP
+ERROR:root:Error during pinging: send_email() missing 1 required positional argument: 'body'
+INFO:root:10-01-24 18:34:25 - Status changed for 3.134.9.225 from 0 to Remote Host appears UP
+ERROR:root:Error during pinging: send_email() missing 1 required positional argument: 'body'
+INFO:root:10-01-24 18:34:25 - Status changed for 3.134.9.225 from 0 to Remote Host appears UP
+ERROR:root:Error during pinging: send_email() missing 1 required positional argument: 'body'
+INFO:root:10-01-24 18:34:25 - Status changed for 3.134.9.225 from 0 to Remote Host appears UP
+ERROR:root:Error during pinging: send_email() missing 1 required positional argument: 'body'
+INFO:root:10-01-24 18:34:25 - Status changed for 3.134.9.225 from 0 to Remote Host appears UP
+ERROR:root:Error during pinging: send_email() missing 1 required positional argument: 'body'
+INFO:root:10-01-24 18:34:25 - Status changed for 3.134.9.225 from 0 to Remote Host appears UP
+ERROR:root:Error during pinging: send_email() missing 1 required positional argument: 'body'
+INFO:root:10-01-24 18:34:25 - Status changed for 3.134.9.225 from 0 to Remote Host appears UP
+ERROR:root:Error during pinging: send_email() missing 1 required positional argument: 'body'
+INFO:root:10-01-24 18:34:25 - Status changed for 3.134.9.225 from 0 to Remote Host appears UP
+ERROR:root:Error during pinging: send_email() missing 1 required positional argument: 'body'
+INFO:root:10-01-24 18:34:25 - Status changed for 3.134.9.225 from 0 to Remote Host appears UP
+ERROR:root:Error during pinging: send_email() missing 1 required positional argument: 'body'
+INFO:root:10-01-24 18:34:25 - Status changed for 3.134.9.225 from 0 to Remote Host appears UP
+ERROR:root:Error during pinging: send_email() missing 1 required positional argument: 'body'
+INFO:root:10-01-24 18:34:25 - Status changed for 3.134.9.225 from 0 to Remote Host appears UP
+ERROR:root:Error during pinging: send_email() missing 1 required positional argument: 'body'
+INFO:root:10-01-24 18:34:25 - Status changed for 3.134.9.225 from 0 to Remote Host appears UP
+ERROR:root:Error during pinging: send_email() missing 1 required positional argument: 'body'
+INFO:root:10-01-24 18:34:25 - Status changed for 3.134.9.225 from 0 to Remote Host appears UP
+ERROR:root:Error during pinging: send_email() missing 1 required positional argument: 'body'
+INFO:root:10-01-24 18:34:25 - Status changed for 3.134.9.225 from 0 to Remote Host appears UP
+ERROR:root:Error during pinging: send_email() missing 1 required positional argument: 'body'
+INFO:root:10-01-24 18:34:25 - Status changed for 3.134.9.225 from 0 to Remote Host appears UP
+ERROR:root:Error during pinging: send_email() missing 1 required positional argument: 'body'
+INFO:root:10-01-24 18:34:25 - Status changed for 3.134.9.225 from 0 to Remote Host appears UP
+ERROR:root:Error during pinging: send_email() missing 1 required positional argument: 'body'
+INFO:root:10-01-24 18:34:25 - Status changed for 3.134.9.225 from 0 to Remote Host appears UP
+ERROR:root:Error during pinging: send_email() missing 1 required positional argument: 'body'
+INFO:root:10-01-24 18:34:25 - Status changed for 3.134.9.225 from 0 to Remote Host appears UP
+ERROR:root:Error during pinging: send_email() missing 1 required positional argument: 'body'
+INFO:root:10-01-24 18:34:25 - Status changed for 3.134.9.225 from 0 to Remote Host appears UP
+ERROR:root:Error during pinging: send_email() missing 1 required positional argument: 'body'
+INFO:root:10-01-24 18:34:25 - Status changed for 3.134.9.225 from 0 to Remote Host appears UP
+ERROR:root:Error during pinging: send_email() missing 1 required positional argument: 'body'
+INFO:root:10-01-24 18:34:25 - Status changed for 3.134.9.225 from 0 to Remote Host appears UP
+ERROR:root:Error during pinging: send_email() missing 1 required positional argument: 'body'
+INFO:root:10-01-24 18:34:25 - Status changed for 3.134.9.225 from 0 to Remote Host appears UP
+ERROR:root:Error during pinging: send_email() missing 1 required positional argument: 'body'
+INFO:root:10-01-24 18:34:25 - Status changed for 3.134.9.225 from 0 to Remote Host appears UP
+ERROR:root:Error during pinging: send_email() missing 1 required positional argument: 'body'
+INFO:root:10-01-24 18:34:25 - Status changed for 3.134.9.225 from 0 to Remote Host appears UP
+ERROR:root:Error during pinging: send_email() missing 1 required positional argument: 'body'
+INFO:root:10-01-24 18:34:25 - Status changed for 3.134.9.225 from 0 to Remote Host appears UP
+ERROR:root:Error during pinging: send_email() missing 1 required positional argument: 'body'
+INFO:root:10-01-24 18:34:25 - Status changed for 3.134.9.225 from 0 to Remote Host appears UP
+ERROR:root:Error during pinging: send_email() missing 1 required positional argument: 'body'
+INFO:root:10-01-24 18:34:26 - Status changed for 3.134.9.225 from 0 to Remote Host appears UP
+ERROR:root:Error during pinging: send_email() missing 1 required positional argument: 'body'
+INFO:root:10-01-24 18:34:26 - Status changed for 3.134.9.225 from 0 to Remote Host appears UP
+ERROR:root:Error during pinging: send_email() missing 1 required positional argument: 'body'
+INFO:root:10-01-24 18:34:26 - Status changed for 3.134.9.225 from 0 to Remote Host appears UP
+ERROR:root:Error during pinging: send_email() missing 1 required positional argument: 'body'
+INFO:root:10-01-24 18:34:26 - Status changed for 3.134.9.225 from 0 to Remote Host appears UP
+ERROR:root:Error during pinging: send_email() missing 1 required positional argument: 'body'
+INFO:root:10-01-24 18:34:26 - Status changed for 3.134.9.225 from 0 to Remote Host appears UP
+ERROR:root:Error during pinging: send_email() missing 1 required positional argument: 'body'
+INFO:root:10-01-24 18:34:26 - Status changed for 3.134.9.225 from 0 to Remote Host appears UP
+ERROR:root:Error during pinging: send_email() missing 1 required positional argument: 'body'
+INFO:root:10-01-24 18:34:26 - Status changed for 3.134.9.225 from 0 to Remote Host appears UP
+ERROR:root:Error during pinging: send_email() missing 1 required positional argument: 'body'
+INFO:root:10-01-24 18:34:26 - Status changed for 3.134.9.225 from 0 to Remote Host appears UP
+ERROR:root:Error during pinging: send_email() missing 1 required positional argument: 'body'
+INFO:root:10-01-24 18:34:26 - Status changed for 3.134.9.225 from 0 to Remote Host appears UP
+ERROR:root:Error during pinging: send_email() missing 1 required positional argument: 'body'
+INFO:root:10-01-24 18:34:26 - Status changed for 3.134.9.225 from 0 to Remote Host appears UP
+ERROR:root:Error during pinging: send_email() missing 1 required positional argument: 'body'
+INFO:root:10-01-24 18:34:26 - Status changed for 3.134.9.225 from 0 to Remote Host appears UP
+ERROR:root:Error during pinging: send_email() missing 1 required positional argument: 'body'
+INFO:root:10-01-24 18:34:26 - Status changed for 3.134.9.225 from 0 to Remote Host appears UP
+ERROR:root:Error during pinging: send_email() missing 1 required positional argument: 'body'
+INFO:root:10-01-24 18:34:26 - Status changed for 3.134.9.225 from 0 to Remote Host appears UP
+ERROR:root:Error during pinging: send_email() missing 1 required positional argument: 'body'
+INFO:root:10-01-24 18:34:26 - Status changed for 3.134.9.225 from 0 to Remote Host appears UP
+ERROR:root:Error during pinging: send_email() missing 1 required positional argument: 'body'
+INFO:root:10-01-24 18:34:26 - Status changed for 3.134.9.225 from 0 to Remote Host appears UP
+ERROR:root:Error during pinging: send_email() missing 1 required positional argument: 'body'
+INFO:root:10-01-24 18:34:26 - Status changed for 3.134.9.225 from 0 to Remote Host appears UP
+ERROR:root:Error during pinging: send_email() missing 1 required positional argument: 'body'
+INFO:root:10-01-24 18:34:26 - Status changed for 3.134.9.225 from 0 to Remote Host appears UP
+ERROR:root:Error during pinging: send_email() missing 1 required positional argument: 'body'
+INFO:root:10-01-24 18:34:26 - Status changed for 3.134.9.225 from 0 to Remote Host appears UP
+ERROR:root:Error during pinging: send_email() missing 1 required positional argument: 'body'
+INFO:root:10-01-24 18:34:26 - Status changed for 3.134.9.225 from 0 to Remote Host appears UP
+ERROR:root:Error during pinging: send_email() missing 1 required positional argument: 'body'
+INFO:root:10-01-24 18:34:26 - Status changed for 3.134.9.225 from 0 to Remote Host appears UP
+ERROR:root:Error during pinging: send_email() missing 1 required positional argument: 'body'
+INFO:root:10-01-24 18:34:26 - Status changed for 3.134.9.225 from 0 to Remote Host appears UP
+ERROR:root:Error during pinging: send_email() missing 1 required positional argument: 'body'
+INFO:root:10-01-24 18:34:26 - Status changed for 3.134.9.225 from 0 to Remote Host appears UP
+ERROR:root:Error during pinging: send_email() missing 1 required positional argument: 'body'
+INFO:root:10-01-24 18:34:26 - Status changed for 3.134.9.225 from 0 to Remote Host appears UP
+ERROR:root:Error during pinging: send_email() missing 1 required positional argument: 'body'
+INFO:root:10-01-24 18:34:26 - Status changed for 3.134.9.225 from 0 to Remote Host appears UP
+ERROR:root:Error during pinging: send_email() missing 1 required positional argument: 'body'
+INFO:root:10-01-24 18:34:26 - Status changed for 3.134.9.225 from 0 to Remote Host appears UP
+ERROR:root:Error during pinging: send_email() missing 1 required positional argument: 'body'
+INFO:root:10-01-24 18:34:26 - Status changed for 3.134.9.225 from 0 to Remote Host appears UP
+ERROR:root:Error during pinging: send_email() missing 1 required positional argument: 'body'
+INFO:root:10-01-24 18:34:26 - Status changed for 3.134.9.225 from 0 to Remote Host appears UP
+ERROR:root:Error during pinging: send_email() missing 1 required positional argument: 'body'
+INFO:root:10-01-24 18:34:26 - Status changed for 3.134.9.225 from 0 to Remote Host appears UP
+ERROR:root:Error during pinging: send_email() missing 1 required positional argument: 'body'
+INFO:root:10-01-24 18:34:27 - Status changed for 3.134.9.225 from 0 to Remote Host appears UP
+ERROR:root:Error during pinging: send_email() missing 1 required positional argument: 'body'
+INFO:root:10-01-24 18:34:27 - Status changed for 3.134.9.225 from 0 to Remote Host appears UP
+ERROR:root:Error during pinging: send_email() missing 1 required positional argument: 'body'
+INFO:root:10-01-24 18:34:27 - Status changed for 3.134.9.225 from 0 to Remote Host appears UP
+ERROR:root:Error during pinging: send_email() missing 1 required positional argument: 'body'
+INFO:root:10-01-24 18:34:27 - Status changed for 3.134.9.225 from 0 to Remote Host appears UP
+ERROR:root:Error during pinging: send_email() missing 1 required positional argument: 'body'
+INFO:root:10-01-24 18:34:27 - Status changed for 3.134.9.225 from 0 to Remote Host appears UP
+ERROR:root:Error during pinging: send_email() missing 1 required positional argument: 'body'
+INFO:root:10-01-24 18:34:27 - Status changed for 3.134.9.225 from 0 to Remote Host appears UP
+ERROR:root:Error during pinging: send_email() missing 1 required positional argument: 'body'
+INFO:root:10-01-24 18:34:27 - Status changed for 3.134.9.225 from 0 to Remote Host appears UP
+ERROR:root:Error during pinging: send_email() missing 1 required positional argument: 'body'
+INFO:root:10-01-24 18:34:27 - Status changed for 3.134.9.225 from 0 to Remote Host appears UP
+ERROR:root:Error during pinging: send_email() missing 1 required positional argument: 'body'
+INFO:root:10-01-24 18:34:27 - Status changed for 3.134.9.225 from 0 to Remote Host appears UP
+ERROR:root:Error during pinging: send_email() missing 1 required positional argument: 'body'
+INFO:root:10-01-24 18:34:27 - Status changed for 3.134.9.225 from 0 to Remote Host appears UP
+ERROR:root:Error during pinging: send_email() missing 1 required positional argument: 'body'
+INFO:root:10-01-24 18:34:27 - Status changed for 3.134.9.225 from 0 to Remote Host appears UP
+ERROR:root:Error during pinging: send_email() missing 1 required positional argument: 'body'
+INFO:root:10-01-24 18:34:27 - Status changed for 3.134.9.225 from 0 to Remote Host appears UP
+ERROR:root:Error during pinging: send_email() missing 1 required positional argument: 'body'
+INFO:root:10-01-24 18:34:27 - Status changed for 3.134.9.225 from 0 to Remote Host appears UP
+ERROR:root:Error during pinging: send_email() missing 1 required positional argument: 'body'
+INFO:root:10-01-24 18:34:27 - Status changed for 3.134.9.225 from 0 to Remote Host appears UP
+ERROR:root:Error during pinging: send_email() missing 1 required positional argument: 'body'
+INFO:root:10-01-24 18:34:27 - Status changed for 3.134.9.225 from 0 to Remote Host appears UP
+ERROR:root:Error during pinging: send_email() missing 1 required positional argument: 'body'
+INFO:root:10-01-24 18:34:27 - Status changed for 3.134.9.225 from 0 to Remote Host appears UP
+ERROR:root:Error during pinging: send_email() missing 1 required positional argument: 'body'
+INFO:root:10-01-24 18:34:27 - Status changed for 3.134.9.225 from 0 to Remote Host appears UP
+ERROR:root:Error during pinging: send_email() missing 1 required positional argument: 'body'
+INFO:root:10-01-24 18:34:27 - Status changed for 3.134.9.225 from 0 to Remote Host appears UP
+ERROR:root:Error during pinging: send_email() missing 1 required positional argument: 'body'
+INFO:root:10-01-24 18:34:27 - Status changed for 3.134.9.225 from 0 to Remote Host appears UP
+ERROR:root:Error during pinging: send_email() missing 1 required positional argument: 'body'
+INFO:root:10-01-24 18:34:27 - Status changed for 3.134.9.225 from 0 to Remote Host appears UP
+ERROR:root:Error during pinging: send_email() missing 1 required positional argument: 'body'
+INFO:root:10-01-24 18:34:27 - Status changed for 3.134.9.225 from 0 to Remote Host appears UP
+ERROR:root:Error during pinging: send_email() missing 1 required positional argument: 'body'
+INFO:root:10-01-24 18:34:27 - Status changed for 3.134.9.225 from 0 to Remote Host appears UP
+ERROR:root:Error during pinging: send_email() missing 1 required positional argument: 'body'
+INFO:root:10-01-24 18:34:27 - Status changed for 3.134.9.225 from 0 to Remote Host appears UP
+ERROR:root:Error during pinging: send_email() missing 1 required positional argument: 'body'
+INFO:root:10-01-24 18:34:27 - Status changed for 3.134.9.225 from 0 to Remote Host appears UP
+ERROR:root:Error during pinging: send_email() missing 1 required positional argument: 'body'
+INFO:root:10-01-24 18:34:27 - Status changed for 3.134.9.225 from 0 to Remote Host appears UP
+ERROR:root:Error during pinging: send_email() missing 1 required positional argument: 'body'
+INFO:root:10-01-24 18:34:27 - Status changed for 3.134.9.225 from 0 to Remote Host appears UP
+ERROR:root:Error during pinging: send_email() missing 1 required positional argument: 'body'
+INFO:root:10-01-24 18:34:27 - Status changed for 3.134.9.225 from 0 to Remote Host appears UP
+ERROR:root:Error during pinging: send_email() missing 1 required positional argument: 'body'
+INFO:root:10-01-24 18:34:27 - Status changed for 3.134.9.225 from 0 to Remote Host appears UP
+ERROR:root:Error during pinging: send_email() missing 1 required positional argument: 'body'
+INFO:root:10-01-24 18:34:28 - Status changed for 3.134.9.225 from 0 to Remote Host appears UP
+ERROR:root:Error during pinging: send_email() missing 1 required positional argument: 'body'
+INFO:root:10-01-24 18:34:28 - Status changed for 3.134.9.225 from 0 to Remote Host appears UP
+ERROR:root:Error during pinging: send_email() missing 1 required positional argument: 'body'
+INFO:root:10-01-24 18:34:28 - Status changed for 3.134.9.225 from 0 to Remote Host appears UP
+ERROR:root:Error during pinging: send_email() missing 1 required positional argument: 'body'
+INFO:root:10-01-24 18:34:28 - Status changed for 3.134.9.225 from 0 to Remote Host appears UP
+ERROR:root:Error during pinging: send_email() missing 1 required positional argument: 'body'
+INFO:root:10-01-24 18:34:28 - Status changed for 3.134.9.225 from 0 to Remote Host appears UP
+ERROR:root:Error during pinging: send_email() missing 1 required positional argument: 'body'
+INFO:root:10-01-24 18:34:28 - Status changed for 3.134.9.225 from 0 to Remote Host appears UP
+ERROR:root:Error during pinging: send_email() missing 1 required positional argument: 'body'
+INFO:root:10-01-24 18:34:28 - Status changed for 3.134.9.225 from 0 to Remote Host appears UP
+ERROR:root:Error during pinging: send_email() missing 1 required positional argument: 'body'
+INFO:root:10-01-24 18:34:28 - Status changed for 3.134.9.225 from 0 to Remote Host appears UP
+ERROR:root:Error during pinging: send_email() missing 1 required positional argument: 'body'
+INFO:root:10-01-24 18:34:28 - Status changed for 3.134.9.225 from 0 to Remote Host appears UP
+ERROR:root:Error during pinging: send_email() missing 1 required positional argument: 'body'
+INFO:root:10-01-24 18:34:28 - Status changed for 3.134.9.225 from 0 to Remote Host appears UP
+ERROR:root:Error during pinging: send_email() missing 1 required positional argument: 'body'
+INFO:root:10-01-24 18:34:28 - Status changed for 3.134.9.225 from 0 to Remote Host appears UP
+ERROR:root:Error during pinging: send_email() missing 1 required positional argument: 'body'
+INFO:root:10-01-24 18:34:28 - Status changed for 3.134.9.225 from 0 to Remote Host appears UP
+ERROR:root:Error during pinging: send_email() missing 1 required positional argument: 'body'
+INFO:root:10-01-24 18:34:28 - Status changed for 3.134.9.225 from 0 to Remote Host appears UP
+ERROR:root:Error during pinging: send_email() missing 1 required positional argument: 'body'
+INFO:root:10-01-24 18:34:28 - Status changed for 3.134.9.225 from 0 to Remote Host appears UP
+ERROR:root:Error during pinging: send_email() missing 1 required positional argument: 'body'
+INFO:root:10-01-24 18:34:28 - Status changed for 3.134.9.225 from 0 to Remote Host appears UP
+ERROR:root:Error during pinging: send_email() missing 1 required positional argument: 'body'
+INFO:root:10-01-24 18:34:28 - Status changed for 3.134.9.225 from 0 to Remote Host appears UP
+ERROR:root:Error during pinging: send_email() missing 1 required positional argument: 'body'
+INFO:root:10-01-24 18:34:28 - Status changed for 3.134.9.225 from 0 to Remote Host appears UP
+ERROR:root:Error during pinging: send_email() missing 1 required positional argument: 'body'
+INFO:root:10-01-24 18:34:28 - Status changed for 3.134.9.225 from 0 to Remote Host appears UP
+ERROR:root:Error during pinging: send_email() missing 1 required positional argument: 'body'
+INFO:root:10-01-24 18:34:28 - Status changed for 3.134.9.225 from 0 to Remote Host appears UP
+ERROR:root:Error during pinging: send_email() missing 1 required positional argument: 'body'
+INFO:root:10-01-24 18:34:28 - Status changed for 3.134.9.225 from 0 to Remote Host appears UP
+ERROR:root:Error during pinging: send_email() missing 1 required positional argument: 'body'
+INFO:root:10-01-24 18:34:28 - Status changed for 3.134.9.225 from 0 to Remote Host appears UP
+ERROR:root:Error during pinging: send_email() missing 1 required positional argument: 'body'
+INFO:root:10-01-24 18:34:28 - Status changed for 3.134.9.225 from 0 to Remote Host appears UP
+ERROR:root:Error during pinging: send_email() missing 1 required positional argument: 'body'
+INFO:root:10-01-24 18:34:28 - Status changed for 3.134.9.225 from 0 to Remote Host appears UP
+ERROR:root:Error during pinging: send_email() missing 1 required positional argument: 'body'
+INFO:root:10-01-24 18:34:28 - Status changed for 3.134.9.225 from 0 to Remote Host appears UP
+ERROR:root:Error during pinging: send_email() missing 1 required positional argument: 'body'
+INFO:root:10-01-24 18:34:28 - Status changed for 3.134.9.225 from 0 to Remote Host appears UP
+ERROR:root:Error during pinging: send_email() missing 1 required positional argument: 'body'
+INFO:root:10-01-24 18:34:28 - Status changed for 3.134.9.225 from 0 to Remote Host appears UP
+ERROR:root:Error during pinging: send_email() missing 1 required positional argument: 'body'
+INFO:root:10-01-24 18:34:28 - Status changed for 3.134.9.225 from 0 to Remote Host appears UP
+ERROR:root:Error during pinging: send_email() missing 1 required positional argument: 'body'
+INFO:root:10-01-24 18:34:29 - Status changed for 3.134.9.225 from 0 to Remote Host appears UP
+ERROR:root:Error during pinging: send_email() missing 1 required positional argument: 'body'
+INFO:root:10-01-24 18:34:29 - Status changed for 3.134.9.225 from 0 to Remote Host appears UP
+ERROR:root:Error during pinging: send_email() missing 1 required positional argument: 'body'
+INFO:root:10-01-24 18:34:29 - Status changed for 3.134.9.225 from 0 to Remote Host appears UP
+ERROR:root:Error during pinging: send_email() missing 1 required positional argument: 'body'
+INFO:root:10-01-24 18:34:29 - Status changed for 3.134.9.225 from 0 to Remote Host appears UP
+ERROR:root:Error during pinging: send_email() missing 1 required positional argument: 'body'
+INFO:root:10-01-24 18:34:29 - Status changed for 3.134.9.225 from 0 to Remote Host appears UP
+ERROR:root:Error during pinging: send_email() missing 1 required positional argument: 'body'
+INFO:root:10-01-24 18:34:29 - Status changed for 3.134.9.225 from 0 to Remote Host appears UP
+ERROR:root:Error during pinging: send_email() missing 1 required positional argument: 'body'
+INFO:root:10-01-24 18:34:29 - Status changed for 3.134.9.225 from 0 to Remote Host appears UP
+ERROR:root:Error during pinging: send_email() missing 1 required positional argument: 'body'
+INFO:root:10-01-24 18:34:29 - Status changed for 3.134.9.225 from 0 to Remote Host appears UP
+ERROR:root:Error during pinging: send_email() missing 1 required positional argument: 'body'
+INFO:root:10-01-24 18:34:29 - Status changed for 3.134.9.225 from 0 to Remote Host appears UP
+ERROR:root:Error during pinging: send_email() missing 1 required positional argument: 'body'
+INFO:root:10-01-24 18:34:29 - Status changed for 3.134.9.225 from 0 to Remote Host appears UP
+ERROR:root:Error during pinging: send_email() missing 1 required positional argument: 'body'
+INFO:root:10-01-24 18:34:29 - Status changed for 3.134.9.225 from 0 to Remote Host appears UP
+ERROR:root:Error during pinging: send_email() missing 1 required positional argument: 'body'
+INFO:root:10-01-24 18:34:29 - Status changed for 3.134.9.225 from 0 to Remote Host appears UP
+ERROR:root:Error during pinging: send_email() missing 1 required positional argument: 'body'
+INFO:root:10-01-24 18:34:29 - Status changed for 3.134.9.225 from 0 to Remote Host appears UP
+ERROR:root:Error during pinging: send_email() missing 1 required positional argument: 'body'
+INFO:root:10-01-24 18:34:29 - Status changed for 3.134.9.225 from 0 to Remote Host appears UP
+ERROR:root:Error during pinging: send_email() missing 1 required positional argument: 'body'
+INFO:root:10-01-24 18:34:29 - Status changed for 3.134.9.225 from 0 to Remote Host appears UP
+ERROR:root:Error during pinging: send_email() missing 1 required positional argument: 'body'
+INFO:root:10-01-24 18:34:29 - Status changed for 3.134.9.225 from 0 to Remote Host appears UP
+ERROR:root:Error during pinging: send_email() missing 1 required positional argument: 'body'
+INFO:root:10-01-24 18:34:29 - Status changed for 3.134.9.225 from 0 to Remote Host appears UP
+ERROR:root:Error during pinging: send_email() missing 1 required positional argument: 'body'
+INFO:root:10-01-24 18:34:29 - Status changed for 3.134.9.225 from 0 to Remote Host appears UP
+ERROR:root:Error during pinging: send_email() missing 1 required positional argument: 'body'
+INFO:root:10-01-24 18:34:29 - Status changed for 3.134.9.225 from 0 to Remote Host appears UP
+ERROR:root:Error during pinging: send_email() missing 1 required positional argument: 'body'
+INFO:root:10-01-24 18:34:29 - Status changed for 3.134.9.225 from 0 to Remote Host appears UP
+ERROR:root:Error during pinging: send_email() missing 1 required positional argument: 'body'
+INFO:root:10-01-24 18:34:29 - Status changed for 3.134.9.225 from 0 to Remote Host appears UP
+ERROR:root:Error during pinging: send_email() missing 1 required positional argument: 'body'
+INFO:root:10-01-24 18:34:29 - Status changed for 3.134.9.225 from 0 to Remote Host appears UP
+ERROR:root:Error during pinging: send_email() missing 1 required positional argument: 'body'
+INFO:root:10-01-24 18:34:29 - Status changed for 3.134.9.225 from 0 to Remote Host appears UP
+ERROR:root:Error during pinging: send_email() missing 1 required positional argument: 'body'
+INFO:root:10-01-24 18:34:29 - Status changed for 3.134.9.225 from 0 to Remote Host appears UP
+ERROR:root:Error during pinging: send_email() missing 1 required positional argument: 'body'
+INFO:root:10-01-24 18:34:29 - Status changed for 3.134.9.225 from 0 to Remote Host appears UP
+ERROR:root:Error during pinging: send_email() missing 1 required positional argument: 'body'
+INFO:root:10-01-24 18:34:29 - Status changed for 3.134.9.225 from 0 to Remote Host appears UP
+ERROR:root:Error during pinging: send_email() missing 1 required positional argument: 'body'
+INFO:root:10-01-24 18:34:29 - Status changed for 3.134.9.225 from 0 to Remote Host appears UP
+ERROR:root:Error during pinging: send_email() missing 1 required positional argument: 'body'
+INFO:root:10-01-24 18:34:29 - Status changed for 3.134.9.225 from 0 to Remote Host appears UP
+ERROR:root:Error during pinging: send_email() missing 1 required positional argument: 'body'
+INFO:root:10-01-24 18:34:30 - Status changed for 3.134.9.225 from 0 to Remote Host appears UP
+ERROR:root:Error during pinging: send_email() missing 1 required positional argument: 'body'
+INFO:root:10-01-24 18:34:30 - Status changed for 3.134.9.225 from 0 to Remote Host appears UP
+ERROR:root:Error during pinging: send_email() missing 1 required positional argument: 'body'
+INFO:root:10-01-24 18:34:30 - Status changed for 3.134.9.225 from 0 to Remote Host appears UP
+ERROR:root:Error during pinging: send_email() missing 1 required positional argument: 'body'
+INFO:root:10-01-24 18:34:30 - Status changed for 3.134.9.225 from 0 to Remote Host appears UP
+ERROR:root:Error during pinging: send_email() missing 1 required positional argument: 'body'
+INFO:root:10-01-24 18:34:30 - Status changed for 3.134.9.225 from 0 to Remote Host appears UP
+ERROR:root:Error during pinging: send_email() missing 1 required positional argument: 'body'
+INFO:root:10-01-24 18:34:30 - Status changed for 3.134.9.225 from 0 to Remote Host appears UP
+ERROR:root:Error during pinging: send_email() missing 1 required positional argument: 'body'
+INFO:root:10-01-24 18:34:30 - Status changed for 3.134.9.225 from 0 to Remote Host appears UP
+ERROR:root:Error during pinging: send_email() missing 1 required positional argument: 'body'
+INFO:root:10-01-24 18:34:30 - Status changed for 3.134.9.225 from 0 to Remote Host appears UP
+ERROR:root:Error during pinging: send_email() missing 1 required positional argument: 'body'
+INFO:root:10-01-24 18:34:30 - Status changed for 3.134.9.225 from 0 to Remote Host appears UP
+ERROR:root:Error during pinging: send_email() missing 1 required positional argument: 'body'
+INFO:root:10-01-24 18:34:30 - Status changed for 3.134.9.225 from 0 to Remote Host appears UP
+ERROR:root:Error during pinging: send_email() missing 1 required positional argument: 'body'
+INFO:root:10-01-24 18:34:30 - Status changed for 3.134.9.225 from 0 to Remote Host appears UP
+ERROR:root:Error during pinging: send_email() missing 1 required positional argument: 'body'
+INFO:root:10-01-24 18:34:30 - Status changed for 3.134.9.225 from 0 to Remote Host appears UP
+ERROR:root:Error during pinging: send_email() missing 1 required positional argument: 'body'
+INFO:root:10-01-24 18:34:30 - Status changed for 3.134.9.225 from 0 to Remote Host appears UP
+ERROR:root:Error during pinging: send_email() missing 1 required positional argument: 'body'
+INFO:root:10-01-24 18:34:30 - Status changed for 3.134.9.225 from 0 to Remote Host appears UP
+ERROR:root:Error during pinging: send_email() missing 1 required positional argument: 'body'
+INFO:root:10-01-24 18:34:30 - Status changed for 3.134.9.225 from 0 to Remote Host appears UP
+ERROR:root:Error during pinging: send_email() missing 1 required positional argument: 'body'
+INFO:root:10-01-24 18:34:30 - Status changed for 3.134.9.225 from 0 to Remote Host appears UP
+ERROR:root:Error during pinging: send_email() missing 1 required positional argument: 'body'
+INFO:root:10-01-24 18:34:30 - Status changed for 3.134.9.225 from 0 to Remote Host appears UP
+ERROR:root:Error during pinging: send_email() missing 1 required positional argument: 'body'
+INFO:root:10-01-24 18:34:30 - Status changed for 3.134.9.225 from 0 to Remote Host appears UP
+ERROR:root:Error during pinging: send_email() missing 1 required positional argument: 'body'
+INFO:root:10-01-24 18:34:30 - Status changed for 3.134.9.225 from 0 to Remote Host appears UP
+ERROR:root:Error during pinging: send_email() missing 1 required positional argument: 'body'
+INFO:root:10-01-24 18:34:30 - Status changed for 3.134.9.225 from 0 to Remote Host appears UP
+ERROR:root:Error during pinging: send_email() missing 1 required positional argument: 'body'
+INFO:root:10-01-24 18:34:30 - Status changed for 3.134.9.225 from 0 to Remote Host appears UP
+ERROR:root:Error during pinging: send_email() missing 1 required positional argument: 'body'
+INFO:root:10-01-24 18:34:30 - Status changed for 3.134.9.225 from 0 to Remote Host appears UP
+ERROR:root:Error during pinging: send_email() missing 1 required positional argument: 'body'
+INFO:root:10-01-24 18:34:30 - Status changed for 3.134.9.225 from 0 to Remote Host appears UP
+ERROR:root:Error during pinging: send_email() missing 1 required positional argument: 'body'
+INFO:root:10-01-24 18:34:30 - Status changed for 3.134.9.225 from 0 to Remote Host appears UP
+ERROR:root:Error during pinging: send_email() missing 1 required positional argument: 'body'
+INFO:root:10-01-24 18:34:30 - Status changed for 3.134.9.225 from 0 to Remote Host appears UP
+ERROR:root:Error during pinging: send_email() missing 1 required positional argument: 'body'
+INFO:root:10-01-24 18:34:30 - Status changed for 3.134.9.225 from 0 to Remote Host appears UP
+ERROR:root:Error during pinging: send_email() missing 1 required positional argument: 'body'
+INFO:root:10-01-24 18:34:30 - Status changed for 3.134.9.225 from 0 to Remote Host appears UP
+ERROR:root:Error during pinging: send_email() missing 1 required positional argument: 'body'
+INFO:root:10-01-24 18:34:30 - Status changed for 3.134.9.225 from 0 to Remote Host appears UP
+ERROR:root:Error during pinging: send_email() missing 1 required positional argument: 'body'
+INFO:root:10-01-24 18:34:31 - Status changed for 3.134.9.225 from 0 to Remote Host appears UP
+ERROR:root:Error during pinging: send_email() missing 1 required positional argument: 'body'
+INFO:root:10-01-24 18:34:31 - Status changed for 3.134.9.225 from 0 to Remote Host appears UP
+ERROR:root:Error during pinging: send_email() missing 1 required positional argument: 'body'
+INFO:root:10-01-24 18:34:31 - Status changed for 3.134.9.225 from 0 to Remote Host appears UP
+ERROR:root:Error during pinging: send_email() missing 1 required positional argument: 'body'
+INFO:root:10-01-24 18:34:31 - Status changed for 3.134.9.225 from 0 to Remote Host appears UP
+ERROR:root:Error during pinging: send_email() missing 1 required positional argument: 'body'
+INFO:root:10-01-24 18:34:31 - Status changed for 3.134.9.225 from 0 to Remote Host appears UP
+ERROR:root:Error during pinging: send_email() missing 1 required positional argument: 'body'
+INFO:root:10-01-24 18:34:31 - Status changed for 3.134.9.225 from 0 to Remote Host appears UP
+ERROR:root:Error during pinging: send_email() missing 1 required positional argument: 'body'
+INFO:root:10-01-24 18:34:31 - Status changed for 3.134.9.225 from 0 to Remote Host appears UP
+ERROR:root:Error during pinging: send_email() missing 1 required positional argument: 'body'
+INFO:root:10-01-24 18:34:31 - Status changed for 3.134.9.225 from 0 to Remote Host appears UP
+ERROR:root:Error during pinging: send_email() missing 1 required positional argument: 'body'
+INFO:root:10-01-24 18:34:31 - Status changed for 3.134.9.225 from 0 to Remote Host appears UP
+ERROR:root:Error during pinging: send_email() missing 1 required positional argument: 'body'
+INFO:root:10-01-24 18:34:31 - Status changed for 3.134.9.225 from 0 to Remote Host appears UP
+ERROR:root:Error during pinging: send_email() missing 1 required positional argument: 'body'
+INFO:root:10-01-24 18:34:31 - Status changed for 3.134.9.225 from 0 to Remote Host appears UP
+ERROR:root:Error during pinging: send_email() missing 1 required positional argument: 'body'
+INFO:root:10-01-24 18:34:31 - Status changed for 3.134.9.225 from 0 to Remote Host appears UP
+ERROR:root:Error during pinging: send_email() missing 1 required positional argument: 'body'
+INFO:root:10-01-24 18:34:31 - Status changed for 3.134.9.225 from 0 to Remote Host appears UP
+ERROR:root:Error during pinging: send_email() missing 1 required positional argument: 'body'
+INFO:root:10-01-24 18:34:31 - Status changed for 3.134.9.225 from 0 to Remote Host appears UP
+ERROR:root:Error during pinging: send_email() missing 1 required positional argument: 'body'
+INFO:root:10-01-24 18:34:31 - Status changed for 3.134.9.225 from 0 to Remote Host appears UP
+ERROR:root:Error during pinging: send_email() missing 1 required positional argument: 'body'
+INFO:root:10-01-24 18:34:31 - Status changed for 3.134.9.225 from 0 to Remote Host appears UP
+ERROR:root:Error during pinging: send_email() missing 1 required positional argument: 'body'
+INFO:root:10-01-24 18:34:31 - Status changed for 3.134.9.225 from 0 to Remote Host appears UP
+ERROR:root:Error during pinging: send_email() missing 1 required positional argument: 'body'
+INFO:root:10-01-24 18:34:31 - Status changed for 3.134.9.225 from 0 to Remote Host appears UP
+ERROR:root:Error during pinging: send_email() missing 1 required positional argument: 'body'
+INFO:root:10-01-24 18:34:31 - Status changed for 3.134.9.225 from 0 to Remote Host appears UP
+ERROR:root:Error during pinging: send_email() missing 1 required positional argument: 'body'
+INFO:root:10-01-24 18:34:31 - Status changed for 3.134.9.225 from 0 to Remote Host appears UP
+ERROR:root:Error during pinging: send_email() missing 1 required positional argument: 'body'
+INFO:root:10-01-24 18:34:31 - Status changed for 3.134.9.225 from 0 to Remote Host appears UP
+ERROR:root:Error during pinging: send_email() missing 1 required positional argument: 'body'
+INFO:root:10-01-24 18:34:31 - Status changed for 3.134.9.225 from 0 to Remote Host appears UP
+ERROR:root:Error during pinging: send_email() missing 1 required positional argument: 'body'
+INFO:root:10-01-24 18:34:31 - Status changed for 3.134.9.225 from 0 to Remote Host appears UP
+ERROR:root:Error during pinging: send_email() missing 1 required positional argument: 'body'
+INFO:root:10-01-24 18:34:31 - Status changed for 3.134.9.225 from 0 to Remote Host appears UP
+ERROR:root:Error during pinging: send_email() missing 1 required positional argument: 'body'
+INFO:root:10-01-24 18:34:31 - Status changed for 3.134.9.225 from 0 to Remote Host appears UP
+ERROR:root:Error during pinging: send_email() missing 1 required positional argument: 'body'
+INFO:root:10-01-24 18:34:31 - Status changed for 3.134.9.225 from 0 to Remote Host appears UP
+ERROR:root:Error during pinging: send_email() missing 1 required positional argument: 'body'
+INFO:root:10-01-24 18:34:31 - Status changed for 3.134.9.225 from 0 to Remote Host appears UP
+ERROR:root:Error during pinging: send_email() missing 1 required positional argument: 'body'
+INFO:root:10-01-24 18:34:32 - Status changed for 3.134.9.225 from 0 to Remote Host appears UP
+ERROR:root:Error during pinging: send_email() missing 1 required positional argument: 'body'
+INFO:root:10-01-24 18:34:32 - Status changed for 3.134.9.225 from 0 to Remote Host appears UP
+ERROR:root:Error during pinging: send_email() missing 1 required positional argument: 'body'
+INFO:root:10-01-24 18:34:32 - Status changed for 3.134.9.225 from 0 to Remote Host appears UP
+ERROR:root:Error during pinging: send_email() missing 1 required positional argument: 'body'
+INFO:root:10-01-24 18:34:32 - Status changed for 3.134.9.225 from 0 to Remote Host appears UP
+ERROR:root:Error during pinging: send_email() missing 1 required positional argument: 'body'
+INFO:root:10-01-24 18:34:32 - Status changed for 3.134.9.225 from 0 to Remote Host appears UP
+ERROR:root:Error during pinging: send_email() missing 1 required positional argument: 'body'
+INFO:root:10-01-24 18:34:32 - Status changed for 3.134.9.225 from 0 to Remote Host appears UP
+ERROR:root:Error during pinging: send_email() missing 1 required positional argument: 'body'
+INFO:root:10-01-24 18:34:32 - Status changed for 3.134.9.225 from 0 to Remote Host appears UP
+ERROR:root:Error during pinging: send_email() missing 1 required positional argument: 'body'
+INFO:root:10-01-24 18:34:32 - Status changed for 3.134.9.225 from 0 to Remote Host appears UP
+ERROR:root:Error during pinging: send_email() missing 1 required positional argument: 'body'
+INFO:root:10-01-24 18:34:32 - Status changed for 3.134.9.225 from 0 to Remote Host appears UP
+ERROR:root:Error during pinging: send_email() missing 1 required positional argument: 'body'
+INFO:root:10-01-24 18:34:32 - Status changed for 3.134.9.225 from 0 to Remote Host appears UP
+ERROR:root:Error during pinging: send_email() missing 1 required positional argument: 'body'
+INFO:root:10-01-24 18:34:32 - Status changed for 3.134.9.225 from 0 to Remote Host appears UP
+ERROR:root:Error during pinging: send_email() missing 1 required positional argument: 'body'
+INFO:root:10-01-24 18:34:32 - Status changed for 3.134.9.225 from 0 to Remote Host appears UP
+ERROR:root:Error during pinging: send_email() missing 1 required positional argument: 'body'
+INFO:root:10-01-24 18:34:32 - Status changed for 3.134.9.225 from 0 to Remote Host appears UP
+ERROR:root:Error during pinging: send_email() missing 1 required positional argument: 'body'
+INFO:root:10-01-24 18:34:32 - Status changed for 3.134.9.225 from 0 to Remote Host appears UP
+ERROR:root:Error during pinging: send_email() missing 1 required positional argument: 'body'
+INFO:root:10-01-24 18:34:32 - Status changed for 3.134.9.225 from 0 to Remote Host appears UP
+ERROR:root:Error during pinging: send_email() missing 1 required positional argument: 'body'
+INFO:root:10-01-24 18:34:32 - Status changed for 3.134.9.225 from 0 to Remote Host appears UP
+ERROR:root:Error during pinging: send_email() missing 1 required positional argument: 'body'
+INFO:root:10-01-24 18:34:32 - Status changed for 3.134.9.225 from 0 to Remote Host appears UP
+ERROR:root:Error during pinging: send_email() missing 1 required positional argument: 'body'
+INFO:root:10-01-24 18:34:32 - Status changed for 3.134.9.225 from 0 to Remote Host appears UP
+ERROR:root:Error during pinging: send_email() missing 1 required positional argument: 'body'
+INFO:root:10-01-24 18:34:32 - Status changed for 3.134.9.225 from 0 to Remote Host appears UP
+ERROR:root:Error during pinging: send_email() missing 1 required positional argument: 'body'
+INFO:root:10-01-24 18:34:32 - Status changed for 3.134.9.225 from 0 to Remote Host appears UP
+ERROR:root:Error during pinging: send_email() missing 1 required positional argument: 'body'
+INFO:root:10-01-24 18:34:32 - Status changed for 3.134.9.225 from 0 to Remote Host appears UP
+ERROR:root:Error during pinging: send_email() missing 1 required positional argument: 'body'
+INFO:root:10-01-24 18:34:32 - Status changed for 3.134.9.225 from 0 to Remote Host appears UP
+ERROR:root:Error during pinging: send_email() missing 1 required positional argument: 'body'
+INFO:root:10-01-24 18:34:32 - Status changed for 3.134.9.225 from 0 to Remote Host appears UP
+ERROR:root:Error during pinging: send_email() missing 1 required positional argument: 'body'
+INFO:root:10-01-24 18:34:32 - Status changed for 3.134.9.225 from 0 to Remote Host appears UP
+ERROR:root:Error during pinging: send_email() missing 1 required positional argument: 'body'
+INFO:root:10-01-24 18:34:32 - Status changed for 3.134.9.225 from 0 to Remote Host appears UP
+ERROR:root:Error during pinging: send_email() missing 1 required positional argument: 'body'
+INFO:root:10-01-24 18:34:32 - Status changed for 3.134.9.225 from 0 to Remote Host appears UP
+ERROR:root:Error during pinging: send_email() missing 1 required positional argument: 'body'
+INFO:root:10-01-24 18:34:32 - Status changed for 3.134.9.225 from 0 to Remote Host appears UP
+ERROR:root:Error during pinging: send_email() missing 1 required positional argument: 'body'
+INFO:root:10-01-24 18:34:33 - Status changed for 3.134.9.225 from 0 to Remote Host appears UP
+ERROR:root:Error during pinging: send_email() missing 1 required positional argument: 'body'
+INFO:root:10-01-24 18:34:33 - Status changed for 3.134.9.225 from 0 to Remote Host appears UP
+ERROR:root:Error during pinging: send_email() missing 1 required positional argument: 'body'
+INFO:root:10-01-24 18:34:33 - Status changed for 3.134.9.225 from 0 to Remote Host appears UP
+ERROR:root:Error during pinging: send_email() missing 1 required positional argument: 'body'
+INFO:root:10-01-24 18:34:33 - Status changed for 3.134.9.225 from 0 to Remote Host appears UP
+ERROR:root:Error during pinging: send_email() missing 1 required positional argument: 'body'
+INFO:root:10-01-24 18:34:33 - Status changed for 3.134.9.225 from 0 to Remote Host appears UP
+ERROR:root:Error during pinging: send_email() missing 1 required positional argument: 'body'
+INFO:root:10-01-24 18:34:33 - Status changed for 3.134.9.225 from 0 to Remote Host appears UP
+ERROR:root:Error during pinging: send_email() missing 1 required positional argument: 'body'
+INFO:root:10-01-24 18:34:33 - Status changed for 3.134.9.225 from 0 to Remote Host appears UP
+ERROR:root:Error during pinging: send_email() missing 1 required positional argument: 'body'
+INFO:root:10-01-24 18:34:33 - Status changed for 3.134.9.225 from 0 to Remote Host appears UP
+ERROR:root:Error during pinging: send_email() missing 1 required positional argument: 'body'
+INFO:root:10-01-24 18:34:33 - Status changed for 3.134.9.225 from 0 to Remote Host appears UP
+ERROR:root:Error during pinging: send_email() missing 1 required positional argument: 'body'
+INFO:root:10-01-24 18:34:33 - Status changed for 3.134.9.225 from 0 to Remote Host appears UP
+ERROR:root:Error during pinging: send_email() missing 1 required positional argument: 'body'
+INFO:root:10-01-24 18:34:33 - Status changed for 3.134.9.225 from 0 to Remote Host appears UP
+ERROR:root:Error during pinging: send_email() missing 1 required positional argument: 'body'
+INFO:root:10-01-24 18:34:33 - Status changed for 3.134.9.225 from 0 to Remote Host appears UP
+ERROR:root:Error during pinging: send_email() missing 1 required positional argument: 'body'
+INFO:root:10-01-24 18:34:33 - Status changed for 3.134.9.225 from 0 to Remote Host appears UP
+ERROR:root:Error during pinging: send_email() missing 1 required positional argument: 'body'
+INFO:root:10-01-24 18:34:33 - Status changed for 3.134.9.225 from 0 to Remote Host appears UP
+ERROR:root:Error during pinging: send_email() missing 1 required positional argument: 'body'
+INFO:root:10-01-24 18:34:33 - Status changed for 3.134.9.225 from 0 to Remote Host appears UP
+ERROR:root:Error during pinging: send_email() missing 1 required positional argument: 'body'
+INFO:root:10-01-24 18:34:33 - Status changed for 3.134.9.225 from 0 to Remote Host appears UP
+ERROR:root:Error during pinging: send_email() missing 1 required positional argument: 'body'
+INFO:root:10-01-24 18:34:33 - Status changed for 3.134.9.225 from 0 to Remote Host appears UP
+ERROR:root:Error during pinging: send_email() missing 1 required positional argument: 'body'
+INFO:root:10-01-24 18:34:33 - Status changed for 3.134.9.225 from 0 to Remote Host appears UP
+ERROR:root:Error during pinging: send_email() missing 1 required positional argument: 'body'
+INFO:root:10-01-24 18:34:33 - Status changed for 3.134.9.225 from 0 to Remote Host appears UP
+ERROR:root:Error during pinging: send_email() missing 1 required positional argument: 'body'
+INFO:root:10-01-24 18:34:33 - Status changed for 3.134.9.225 from 0 to Remote Host appears UP
+ERROR:root:Error during pinging: send_email() missing 1 required positional argument: 'body'
+INFO:root:10-01-24 18:34:33 - Status changed for 3.134.9.225 from 0 to Remote Host appears UP
+ERROR:root:Error during pinging: send_email() missing 1 required positional argument: 'body'
+INFO:root:10-01-24 18:34:33 - Status changed for 3.134.9.225 from 0 to Remote Host appears UP
+ERROR:root:Error during pinging: send_email() missing 1 required positional argument: 'body'
+INFO:root:10-01-24 18:34:33 - Status changed for 3.134.9.225 from 0 to Remote Host appears UP
+ERROR:root:Error during pinging: send_email() missing 1 required positional argument: 'body'
+INFO:root:10-01-24 18:34:33 - Status changed for 3.134.9.225 from 0 to Remote Host appears UP
+ERROR:root:Error during pinging: send_email() missing 1 required positional argument: 'body'
+INFO:root:10-01-24 18:34:33 - Status changed for 3.134.9.225 from 0 to Remote Host appears UP
+ERROR:root:Error during pinging: send_email() missing 1 required positional argument: 'body'
+INFO:root:10-01-24 18:34:33 - Status changed for 3.134.9.225 from 0 to Remote Host appears UP
+ERROR:root:Error during pinging: send_email() missing 1 required positional argument: 'body'
+INFO:root:10-01-24 18:34:33 - Status changed for 3.134.9.225 from 0 to Remote Host appears UP
+ERROR:root:Error during pinging: send_email() missing 1 required positional argument: 'body'
+INFO:root:10-01-24 18:34:34 - Status changed for 3.134.9.225 from 0 to Remote Host appears UP
+ERROR:root:Error during pinging: send_email() missing 1 required positional argument: 'body'
+INFO:root:10-01-24 18:34:34 - Status changed for 3.134.9.225 from 0 to Remote Host appears UP
+ERROR:root:Error during pinging: send_email() missing 1 required positional argument: 'body'
+INFO:root:10-01-24 18:34:34 - Status changed for 3.134.9.225 from 0 to Remote Host appears UP
+ERROR:root:Error during pinging: send_email() missing 1 required positional argument: 'body'
+INFO:root:10-01-24 18:34:34 - Status changed for 3.134.9.225 from 0 to Remote Host appears UP
+ERROR:root:Error during pinging: send_email() missing 1 required positional argument: 'body'
+INFO:root:10-01-24 18:34:34 - Status changed for 3.134.9.225 from 0 to Remote Host appears UP
+ERROR:root:Error during pinging: send_email() missing 1 required positional argument: 'body'
+INFO:root:10-01-24 18:34:34 - Status changed for 3.134.9.225 from 0 to Remote Host appears UP
+ERROR:root:Error during pinging: send_email() missing 1 required positional argument: 'body'
+INFO:root:10-01-24 18:34:34 - Status changed for 3.134.9.225 from 0 to Remote Host appears UP
+ERROR:root:Error during pinging: send_email() missing 1 required positional argument: 'body'
+INFO:root:10-01-24 18:34:34 - Status changed for 3.134.9.225 from 0 to Remote Host appears UP
+ERROR:root:Error during pinging: send_email() missing 1 required positional argument: 'body'
+INFO:root:10-01-24 18:34:34 - Status changed for 3.134.9.225 from 0 to Remote Host appears UP
+ERROR:root:Error during pinging: send_email() missing 1 required positional argument: 'body'
+INFO:root:10-01-24 18:34:34 - Status changed for 3.134.9.225 from 0 to Remote Host appears UP
+ERROR:root:Error during pinging: send_email() missing 1 required positional argument: 'body'
+INFO:root:10-01-24 18:34:34 - Status changed for 3.134.9.225 from 0 to Remote Host appears UP
+ERROR:root:Error during pinging: send_email() missing 1 required positional argument: 'body'
+INFO:root:10-01-24 18:34:34 - Status changed for 3.134.9.225 from 0 to Remote Host appears UP
+ERROR:root:Error during pinging: send_email() missing 1 required positional argument: 'body'
+INFO:root:10-01-24 18:34:34 - Status changed for 3.134.9.225 from 0 to Remote Host appears UP
+ERROR:root:Error during pinging: send_email() missing 1 required positional argument: 'body'
+INFO:root:10-01-24 18:34:34 - Status changed for 3.134.9.225 from 0 to Remote Host appears UP
+ERROR:root:Error during pinging: send_email() missing 1 required positional argument: 'body'
+INFO:root:10-01-24 18:34:34 - Status changed for 3.134.9.225 from 0 to Remote Host appears UP
+ERROR:root:Error during pinging: send_email() missing 1 required positional argument: 'body'
+INFO:root:10-01-24 18:34:34 - Status changed for 3.134.9.225 from 0 to Remote Host appears UP
+ERROR:root:Error during pinging: send_email() missing 1 required positional argument: 'body'
+INFO:root:10-01-24 18:34:34 - Status changed for 3.134.9.225 from 0 to Remote Host appears UP
+ERROR:root:Error during pinging: send_email() missing 1 required positional argument: 'body'
+INFO:root:10-01-24 18:34:34 - Status changed for 3.134.9.225 from 0 to Remote Host appears UP
+ERROR:root:Error during pinging: send_email() missing 1 required positional argument: 'body'
+INFO:root:10-01-24 18:34:34 - Status changed for 3.134.9.225 from 0 to Remote Host appears UP
+ERROR:root:Error during pinging: send_email() missing 1 required positional argument: 'body'
+INFO:root:10-01-24 18:34:34 - Status changed for 3.134.9.225 from 0 to Remote Host appears UP
+ERROR:root:Error during pinging: send_email() missing 1 required positional argument: 'body'
+INFO:root:10-01-24 18:34:34 - Status changed for 3.134.9.225 from 0 to Remote Host appears UP
+ERROR:root:Error during pinging: send_email() missing 1 required positional argument: 'body'
+INFO:root:10-01-24 18:34:34 - Status changed for 3.134.9.225 from 0 to Remote Host appears UP
+ERROR:root:Error during pinging: send_email() missing 1 required positional argument: 'body'
+INFO:root:10-01-24 18:34:34 - Status changed for 3.134.9.225 from 0 to Remote Host appears UP
+ERROR:root:Error during pinging: send_email() missing 1 required positional argument: 'body'
+INFO:root:10-01-24 18:34:34 - Status changed for 3.134.9.225 from 0 to Remote Host appears UP
+ERROR:root:Error during pinging: send_email() missing 1 required positional argument: 'body'
+INFO:root:10-01-24 18:34:34 - Status changed for 3.134.9.225 from 0 to Remote Host appears UP
+ERROR:root:Error during pinging: send_email() missing 1 required positional argument: 'body'
+INFO:root:10-01-24 18:34:34 - Status changed for 3.134.9.225 from 0 to Remote Host appears UP
+ERROR:root:Error during pinging: send_email() missing 1 required positional argument: 'body'
+INFO:root:10-01-24 18:34:34 - Status changed for 3.134.9.225 from 0 to Remote Host appears UP
+ERROR:root:Error during pinging: send_email() missing 1 required positional argument: 'body'
+INFO:root:10-01-24 18:34:34 - Status changed for 3.134.9.225 from 0 to Remote Host appears UP
+ERROR:root:Error during pinging: send_email() missing 1 required positional argument: 'body'
+INFO:root:10-01-24 18:34:35 - Status changed for 3.134.9.225 from 0 to Remote Host appears UP
+ERROR:root:Error during pinging: send_email() missing 1 required positional argument: 'body'
+INFO:root:10-01-24 18:34:35 - Status changed for 3.134.9.225 from 0 to Remote Host appears UP
+ERROR:root:Error during pinging: send_email() missing 1 required positional argument: 'body'
+INFO:root:10-01-24 18:34:35 - Status changed for 3.134.9.225 from 0 to Remote Host appears UP
+ERROR:root:Error during pinging: send_email() missing 1 required positional argument: 'body'
+INFO:root:10-01-24 18:34:35 - Status changed for 3.134.9.225 from 0 to Remote Host appears UP
+ERROR:root:Error during pinging: send_email() missing 1 required positional argument: 'body'
+INFO:root:10-01-24 18:34:35 - Status changed for 3.134.9.225 from 0 to Remote Host appears UP
+ERROR:root:Error during pinging: send_email() missing 1 required positional argument: 'body'
+INFO:root:10-01-24 18:34:35 - Status changed for 3.134.9.225 from 0 to Remote Host appears UP
+ERROR:root:Error during pinging: send_email() missing 1 required positional argument: 'body'
+INFO:root:10-01-24 18:34:35 - Status changed for 3.134.9.225 from 0 to Remote Host appears UP
+ERROR:root:Error during pinging: send_email() missing 1 required positional argument: 'body'
+INFO:root:10-01-24 18:34:35 - Status changed for 3.134.9.225 from 0 to Remote Host appears UP
+ERROR:root:Error during pinging: send_email() missing 1 required positional argument: 'body'
+INFO:root:10-01-24 18:34:35 - Status changed for 3.134.9.225 from 0 to Remote Host appears UP
+ERROR:root:Error during pinging: send_email() missing 1 required positional argument: 'body'
+INFO:root:10-01-24 18:34:35 - Status changed for 3.134.9.225 from 0 to Remote Host appears UP
+ERROR:root:Error during pinging: send_email() missing 1 required positional argument: 'body'
+INFO:root:10-01-24 18:34:35 - Status changed for 3.134.9.225 from 0 to Remote Host appears UP
+ERROR:root:Error during pinging: send_email() missing 1 required positional argument: 'body'
+INFO:root:10-01-24 18:34:35 - Status changed for 3.134.9.225 from 0 to Remote Host appears UP
+ERROR:root:Error during pinging: send_email() missing 1 required positional argument: 'body'
+INFO:root:10-01-24 18:34:35 - Status changed for 3.134.9.225 from 0 to Remote Host appears UP
+ERROR:root:Error during pinging: send_email() missing 1 required positional argument: 'body'
+INFO:root:10-01-24 18:34:35 - Status changed for 3.134.9.225 from 0 to Remote Host appears UP
+ERROR:root:Error during pinging: send_email() missing 1 required positional argument: 'body'
+INFO:root:10-01-24 18:34:35 - Status changed for 3.134.9.225 from 0 to Remote Host appears UP
+ERROR:root:Error during pinging: send_email() missing 1 required positional argument: 'body'
+INFO:root:10-01-24 18:34:35 - Status changed for 3.134.9.225 from 0 to Remote Host appears UP
+ERROR:root:Error during pinging: send_email() missing 1 required positional argument: 'body'
+INFO:root:10-01-24 18:34:35 - Status changed for 3.134.9.225 from 0 to Remote Host appears UP
+ERROR:root:Error during pinging: send_email() missing 1 required positional argument: 'body'
+INFO:root:10-01-24 18:34:35 - Status changed for 3.134.9.225 from 0 to Remote Host appears UP
+ERROR:root:Error during pinging: send_email() missing 1 required positional argument: 'body'
+INFO:root:10-01-24 18:34:35 - Status changed for 3.134.9.225 from 0 to Remote Host appears UP
+ERROR:root:Error during pinging: send_email() missing 1 required positional argument: 'body'
+INFO:root:10-01-24 18:34:35 - Status changed for 3.134.9.225 from 0 to Remote Host appears UP
+ERROR:root:Error during pinging: send_email() missing 1 required positional argument: 'body'
+INFO:root:10-01-24 18:34:35 - Status changed for 3.134.9.225 from 0 to Remote Host appears UP
+ERROR:root:Error during pinging: send_email() missing 1 required positional argument: 'body'
+INFO:root:10-01-24 18:34:35 - Status changed for 3.134.9.225 from 0 to Remote Host appears UP
+ERROR:root:Error during pinging: send_email() missing 1 required positional argument: 'body'
+INFO:root:10-01-24 18:34:35 - Status changed for 3.134.9.225 from 0 to Remote Host appears UP
+ERROR:root:Error during pinging: send_email() missing 1 required positional argument: 'body'
+INFO:root:10-01-24 18:34:35 - Status changed for 3.134.9.225 from 0 to Remote Host appears UP
+ERROR:root:Error during pinging: send_email() missing 1 required positional argument: 'body'
+INFO:root:10-01-24 18:34:35 - Status changed for 3.134.9.225 from 0 to Remote Host appears UP
+ERROR:root:Error during pinging: send_email() missing 1 required positional argument: 'body'
+INFO:root:10-01-24 18:34:35 - Status changed for 3.134.9.225 from 0 to Remote Host appears UP
+ERROR:root:Error during pinging: send_email() missing 1 required positional argument: 'body'
+INFO:root:10-01-24 18:34:35 - Status changed for 3.134.9.225 from 0 to Remote Host appears UP
+ERROR:root:Error during pinging: send_email() missing 1 required positional argument: 'body'
+INFO:root:10-01-24 18:34:35 - Status changed for 3.134.9.225 from 0 to Remote Host appears UP
+ERROR:root:Error during pinging: send_email() missing 1 required positional argument: 'body'
+INFO:root:10-01-24 18:34:36 - Status changed for 3.134.9.225 from 0 to Remote Host appears UP
+ERROR:root:Error during pinging: send_email() missing 1 required positional argument: 'body'
+INFO:root:10-01-24 18:34:36 - Status changed for 3.134.9.225 from 0 to Remote Host appears UP
+ERROR:root:Error during pinging: send_email() missing 1 required positional argument: 'body'
+INFO:root:10-01-24 18:34:36 - Status changed for 3.134.9.225 from 0 to Remote Host appears UP
+ERROR:root:Error during pinging: send_email() missing 1 required positional argument: 'body'
+INFO:root:10-01-24 18:34:36 - Status changed for 3.134.9.225 from 0 to Remote Host appears UP
+ERROR:root:Error during pinging: send_email() missing 1 required positional argument: 'body'
+INFO:root:10-01-24 18:34:36 - Status changed for 3.134.9.225 from 0 to Remote Host appears UP
+ERROR:root:Error during pinging: send_email() missing 1 required positional argument: 'body'
+INFO:root:10-01-24 18:34:36 - Status changed for 3.134.9.225 from 0 to Remote Host appears UP
+ERROR:root:Error during pinging: send_email() missing 1 required positional argument: 'body'
+INFO:root:10-01-24 18:34:36 - Status changed for 3.134.9.225 from 0 to Remote Host appears UP
+ERROR:root:Error during pinging: send_email() missing 1 required positional argument: 'body'
+INFO:root:10-01-24 18:34:36 - Status changed for 3.134.9.225 from 0 to Remote Host appears UP
+ERROR:root:Error during pinging: send_email() missing 1 required positional argument: 'body'
+INFO:root:10-01-24 18:34:36 - Status changed for 3.134.9.225 from 0 to Remote Host appears UP
+ERROR:root:Error during pinging: send_email() missing 1 required positional argument: 'body'
+INFO:root:10-01-24 18:34:36 - Status changed for 3.134.9.225 from 0 to Remote Host appears UP
+ERROR:root:Error during pinging: send_email() missing 1 required positional argument: 'body'
+INFO:root:10-01-24 18:34:36 - Status changed for 3.134.9.225 from 0 to Remote Host appears UP
+ERROR:root:Error during pinging: send_email() missing 1 required positional argument: 'body'
+INFO:root:10-01-24 18:34:36 - Status changed for 3.134.9.225 from 0 to Remote Host appears UP
+ERROR:root:Error during pinging: send_email() missing 1 required positional argument: 'body'
+INFO:root:10-01-24 18:34:36 - Status changed for 3.134.9.225 from 0 to Remote Host appears UP
+ERROR:root:Error during pinging: send_email() missing 1 required positional argument: 'body'
+INFO:root:10-01-24 18:34:36 - Status changed for 3.134.9.225 from 0 to Remote Host appears UP
+ERROR:root:Error during pinging: send_email() missing 1 required positional argument: 'body'
+INFO:root:10-01-24 18:34:36 - Status changed for 3.134.9.225 from 0 to Remote Host appears UP
+ERROR:root:Error during pinging: send_email() missing 1 required positional argument: 'body'
+INFO:root:10-01-24 18:34:36 - Status changed for 3.134.9.225 from 0 to Remote Host appears UP
+ERROR:root:Error during pinging: send_email() missing 1 required positional argument: 'body'
+INFO:root:10-01-24 18:34:36 - Status changed for 3.134.9.225 from 0 to Remote Host appears UP
+ERROR:root:Error during pinging: send_email() missing 1 required positional argument: 'body'
+INFO:root:10-01-24 18:34:36 - Status changed for 3.134.9.225 from 0 to Remote Host appears UP
+ERROR:root:Error during pinging: send_email() missing 1 required positional argument: 'body'
+INFO:root:10-01-24 18:34:36 - Status changed for 3.134.9.225 from 0 to Remote Host appears UP
+ERROR:root:Error during pinging: send_email() missing 1 required positional argument: 'body'
+INFO:root:10-01-24 18:34:36 - Status changed for 3.134.9.225 from 0 to Remote Host appears UP
+ERROR:root:Error during pinging: send_email() missing 1 required positional argument: 'body'
+INFO:root:10-01-24 18:34:36 - Status changed for 3.134.9.225 from 0 to Remote Host appears UP
+ERROR:root:Error during pinging: send_email() missing 1 required positional argument: 'body'
+INFO:root:10-01-24 18:34:36 - Status changed for 3.134.9.225 from 0 to Remote Host appears UP
+ERROR:root:Error during pinging: send_email() missing 1 required positional argument: 'body'
+INFO:root:10-01-24 18:34:36 - Status changed for 3.134.9.225 from 0 to Remote Host appears UP
+ERROR:root:Error during pinging: send_email() missing 1 required positional argument: 'body'
+INFO:root:10-01-24 18:34:36 - Status changed for 3.134.9.225 from 0 to Remote Host appears UP
+ERROR:root:Error during pinging: send_email() missing 1 required positional argument: 'body'
+INFO:root:10-01-24 18:34:36 - Status changed for 3.134.9.225 from 0 to Remote Host appears UP
+ERROR:root:Error during pinging: send_email() missing 1 required positional argument: 'body'
+INFO:root:10-01-24 18:34:36 - Status changed for 3.134.9.225 from 0 to Remote Host appears UP
+ERROR:root:Error during pinging: send_email() missing 1 required positional argument: 'body'
+INFO:root:10-01-24 18:34:36 - Status changed for 3.134.9.225 from 0 to Remote Host appears UP
+ERROR:root:Error during pinging: send_email() missing 1 required positional argument: 'body'
+INFO:root:10-01-24 18:34:37 - Status changed for 3.134.9.225 from 0 to Remote Host appears UP
+ERROR:root:Error during pinging: send_email() missing 1 required positional argument: 'body'
+INFO:root:10-01-24 18:34:37 - Status changed for 3.134.9.225 from 0 to Remote Host appears UP
+ERROR:root:Error during pinging: send_email() missing 1 required positional argument: 'body'
+INFO:root:10-01-24 18:34:37 - Status changed for 3.134.9.225 from 0 to Remote Host appears UP
+ERROR:root:Error during pinging: send_email() missing 1 required positional argument: 'body'
+INFO:root:10-01-24 18:34:37 - Status changed for 3.134.9.225 from 0 to Remote Host appears UP
+ERROR:root:Error during pinging: send_email() missing 1 required positional argument: 'body'
+INFO:root:10-01-24 18:34:37 - Status changed for 3.134.9.225 from 0 to Remote Host appears UP
+ERROR:root:Error during pinging: send_email() missing 1 required positional argument: 'body'
+INFO:root:10-01-24 18:34:37 - Status changed for 3.134.9.225 from 0 to Remote Host appears UP
+ERROR:root:Error during pinging: send_email() missing 1 required positional argument: 'body'
+INFO:root:10-01-24 18:34:37 - Status changed for 3.134.9.225 from 0 to Remote Host appears UP
+ERROR:root:Error during pinging: send_email() missing 1 required positional argument: 'body'
+INFO:root:10-01-24 18:34:37 - Status changed for 3.134.9.225 from 0 to Remote Host appears UP
+ERROR:root:Error during pinging: send_email() missing 1 required positional argument: 'body'
+INFO:root:10-01-24 18:34:37 - Status changed for 3.134.9.225 from 0 to Remote Host appears UP
+ERROR:root:Error during pinging: send_email() missing 1 required positional argument: 'body'
+INFO:root:10-01-24 18:34:37 - Status changed for 3.134.9.225 from 0 to Remote Host appears UP
+ERROR:root:Error during pinging: send_email() missing 1 required positional argument: 'body'
+INFO:root:10-01-24 18:34:37 - Status changed for 3.134.9.225 from 0 to Remote Host appears UP
+ERROR:root:Error during pinging: send_email() missing 1 required positional argument: 'body'
+INFO:root:10-01-24 18:34:37 - Status changed for 3.134.9.225 from 0 to Remote Host appears UP
+ERROR:root:Error during pinging: send_email() missing 1 required positional argument: 'body'
+INFO:root:10-01-24 18:34:37 - Status changed for 3.134.9.225 from 0 to Remote Host appears UP
+ERROR:root:Error during pinging: send_email() missing 1 required positional argument: 'body'
+INFO:root:10-01-24 18:34:37 - Status changed for 3.134.9.225 from 0 to Remote Host appears UP
+ERROR:root:Error during pinging: send_email() missing 1 required positional argument: 'body'
+INFO:root:10-01-24 18:34:37 - Status changed for 3.134.9.225 from 0 to Remote Host appears UP
+ERROR:root:Error during pinging: send_email() missing 1 required positional argument: 'body'
+INFO:root:10-01-24 18:34:37 - Status changed for 3.134.9.225 from 0 to Remote Host appears UP
+ERROR:root:Error during pinging: send_email() missing 1 required positional argument: 'body'
+INFO:root:10-01-24 18:34:37 - Status changed for 3.134.9.225 from 0 to Remote Host appears UP
+ERROR:root:Error during pinging: send_email() missing 1 required positional argument: 'body'
+INFO:root:10-01-24 18:34:37 - Status changed for 3.134.9.225 from 0 to Remote Host appears UP
+ERROR:root:Error during pinging: send_email() missing 1 required positional argument: 'body'
+INFO:root:10-01-24 18:34:37 - Status changed for 3.134.9.225 from 0 to Remote Host appears UP
+ERROR:root:Error during pinging: send_email() missing 1 required positional argument: 'body'
+INFO:root:10-01-24 18:34:37 - Status changed for 3.134.9.225 from 0 to Remote Host appears UP
+ERROR:root:Error during pinging: send_email() missing 1 required positional argument: 'body'
+INFO:root:10-01-24 18:34:37 - Status changed for 3.134.9.225 from 0 to Remote Host appears UP
+ERROR:root:Error during pinging: send_email() missing 1 required positional argument: 'body'
+INFO:root:10-01-24 18:34:37 - Status changed for 3.134.9.225 from 0 to Remote Host appears UP
+ERROR:root:Error during pinging: send_email() missing 1 required positional argument: 'body'
+INFO:root:10-01-24 18:34:37 - Status changed for 3.134.9.225 from 0 to Remote Host appears UP
+ERROR:root:Error during pinging: send_email() missing 1 required positional argument: 'body'
+INFO:root:10-01-24 18:34:37 - Status changed for 3.134.9.225 from 0 to Remote Host appears UP
+ERROR:root:Error during pinging: send_email() missing 1 required positional argument: 'body'
+INFO:root:10-01-24 18:34:37 - Status changed for 3.134.9.225 from 0 to Remote Host appears UP
+ERROR:root:Error during pinging: send_email() missing 1 required positional argument: 'body'
+INFO:root:10-01-24 18:34:37 - Status changed for 3.134.9.225 from 0 to Remote Host appears UP
+ERROR:root:Error during pinging: send_email() missing 1 required positional argument: 'body'
+INFO:root:10-01-24 18:34:37 - Status changed for 3.134.9.225 from 0 to Remote Host appears UP
+ERROR:root:Error during pinging: send_email() missing 1 required positional argument: 'body'
+INFO:root:10-01-24 18:34:38 - Status changed for 3.134.9.225 from 0 to Remote Host appears UP
+ERROR:root:Error during pinging: send_email() missing 1 required positional argument: 'body'
+INFO:root:10-01-24 18:34:38 - Status changed for 3.134.9.225 from 0 to Remote Host appears UP
+ERROR:root:Error during pinging: send_email() missing 1 required positional argument: 'body'
+INFO:root:10-01-24 18:34:38 - Status changed for 3.134.9.225 from 0 to Remote Host appears UP
+ERROR:root:Error during pinging: send_email() missing 1 required positional argument: 'body'
+INFO:root:10-01-24 18:34:38 - Status changed for 3.134.9.225 from 0 to Remote Host appears UP
+ERROR:root:Error during pinging: send_email() missing 1 required positional argument: 'body'
+INFO:root:10-01-24 18:34:38 - Status changed for 3.134.9.225 from 0 to Remote Host appears UP
+ERROR:root:Error during pinging: send_email() missing 1 required positional argument: 'body'
+INFO:root:10-01-24 18:34:38 - Status changed for 3.134.9.225 from 0 to Remote Host appears UP
+ERROR:root:Error during pinging: send_email() missing 1 required positional argument: 'body'
+INFO:root:10-01-24 18:34:38 - Status changed for 3.134.9.225 from 0 to Remote Host appears UP
+ERROR:root:Error during pinging: send_email() missing 1 required positional argument: 'body'
+INFO:root:10-01-24 18:34:38 - Status changed for 3.134.9.225 from 0 to Remote Host appears UP
+ERROR:root:Error during pinging: send_email() missing 1 required positional argument: 'body'
+INFO:root:10-01-24 18:34:38 - Status changed for 3.134.9.225 from 0 to Remote Host appears UP
+ERROR:root:Error during pinging: send_email() missing 1 required positional argument: 'body'
+INFO:root:10-01-24 18:34:38 - Status changed for 3.134.9.225 from 0 to Remote Host appears UP
+ERROR:root:Error during pinging: send_email() missing 1 required positional argument: 'body'
+INFO:root:10-01-24 18:34:38 - Status changed for 3.134.9.225 from 0 to Remote Host appears UP
+ERROR:root:Error during pinging: send_email() missing 1 required positional argument: 'body'
+INFO:root:10-01-24 18:34:38 - Status changed for 3.134.9.225 from 0 to Remote Host appears UP
+ERROR:root:Error during pinging: send_email() missing 1 required positional argument: 'body'
+INFO:root:10-01-24 18:34:38 - Status changed for 3.134.9.225 from 0 to Remote Host appears UP
+ERROR:root:Error during pinging: send_email() missing 1 required positional argument: 'body'
+INFO:root:10-01-24 18:34:38 - Status changed for 3.134.9.225 from 0 to Remote Host appears UP
+ERROR:root:Error during pinging: send_email() missing 1 required positional argument: 'body'
+INFO:root:10-01-24 18:34:38 - Status changed for 3.134.9.225 from 0 to Remote Host appears UP
+ERROR:root:Error during pinging: send_email() missing 1 required positional argument: 'body'
+INFO:root:10-01-24 18:34:38 - Status changed for 3.134.9.225 from 0 to Remote Host appears UP
+ERROR:root:Error during pinging: send_email() missing 1 required positional argument: 'body'
+INFO:root:10-01-24 18:34:38 - Status changed for 3.134.9.225 from 0 to Remote Host appears UP
+ERROR:root:Error during pinging: send_email() missing 1 required positional argument: 'body'
+INFO:root:10-01-24 18:34:38 - Status changed for 3.134.9.225 from 0 to Remote Host appears UP
+ERROR:root:Error during pinging: send_email() missing 1 required positional argument: 'body'
+INFO:root:10-01-24 18:34:38 - Status changed for 3.134.9.225 from 0 to Remote Host appears UP
+ERROR:root:Error during pinging: send_email() missing 1 required positional argument: 'body'
+INFO:root:10-01-24 18:34:38 - Status changed for 3.134.9.225 from 0 to Remote Host appears UP
+ERROR:root:Error during pinging: send_email() missing 1 required positional argument: 'body'
+INFO:root:10-01-24 18:34:38 - Status changed for 3.134.9.225 from 0 to Remote Host appears UP
+ERROR:root:Error during pinging: send_email() missing 1 required positional argument: 'body'
+INFO:root:10-01-24 18:34:38 - Status changed for 3.134.9.225 from 0 to Remote Host appears UP
+ERROR:root:Error during pinging: send_email() missing 1 required positional argument: 'body'
+INFO:root:10-01-24 18:34:38 - Status changed for 3.134.9.225 from 0 to Remote Host appears UP
+ERROR:root:Error during pinging: send_email() missing 1 required positional argument: 'body'
+INFO:root:10-01-24 18:34:38 - Status changed for 3.134.9.225 from 0 to Remote Host appears UP
+ERROR:root:Error during pinging: send_email() missing 1 required positional argument: 'body'
+INFO:root:10-01-24 18:34:38 - Status changed for 3.134.9.225 from 0 to Remote Host appears UP
+ERROR:root:Error during pinging: send_email() missing 1 required positional argument: 'body'
+INFO:root:10-01-24 18:34:38 - Status changed for 3.134.9.225 from 0 to Remote Host appears UP
+ERROR:root:Error during pinging: send_email() missing 1 required positional argument: 'body'
+INFO:root:10-01-24 18:34:38 - Status changed for 3.134.9.225 from 0 to Remote Host appears UP
+ERROR:root:Error during pinging: send_email() missing 1 required positional argument: 'body'
+INFO:root:10-01-24 18:34:39 - Status changed for 3.134.9.225 from 0 to Remote Host appears UP
+ERROR:root:Error during pinging: send_email() missing 1 required positional argument: 'body'
+INFO:root:10-01-24 18:34:39 - Status changed for 3.134.9.225 from 0 to Remote Host appears UP
+ERROR:root:Error during pinging: send_email() missing 1 required positional argument: 'body'
+INFO:root:10-01-24 18:34:39 - Status changed for 3.134.9.225 from 0 to Remote Host appears UP
+ERROR:root:Error during pinging: send_email() missing 1 required positional argument: 'body'
+INFO:root:10-01-24 18:34:39 - Status changed for 3.134.9.225 from 0 to Remote Host appears UP
+ERROR:root:Error during pinging: send_email() missing 1 required positional argument: 'body'
+INFO:root:10-01-24 18:34:39 - Status changed for 3.134.9.225 from 0 to Remote Host appears UP
+ERROR:root:Error during pinging: send_email() missing 1 required positional argument: 'body'
+INFO:root:10-01-24 18:34:39 - Status changed for 3.134.9.225 from 0 to Remote Host appears UP
+ERROR:root:Error during pinging: send_email() missing 1 required positional argument: 'body'
+INFO:root:10-01-24 18:34:39 - Status changed for 3.134.9.225 from 0 to Remote Host appears UP
+ERROR:root:Error during pinging: send_email() missing 1 required positional argument: 'body'
+INFO:root:10-01-24 18:34:39 - Status changed for 3.134.9.225 from 0 to Remote Host appears UP
+ERROR:root:Error during pinging: send_email() missing 1 required positional argument: 'body'
+INFO:root:10-01-24 18:34:39 - Status changed for 3.134.9.225 from 0 to Remote Host appears UP
+ERROR:root:Error during pinging: send_email() missing 1 required positional argument: 'body'
+INFO:root:10-01-24 18:34:39 - Status changed for 3.134.9.225 from 0 to Remote Host appears UP
+ERROR:root:Error during pinging: send_email() missing 1 required positional argument: 'body'
+INFO:root:10-01-24 18:34:39 - Status changed for 3.134.9.225 from 0 to Remote Host appears UP
+ERROR:root:Error during pinging: send_email() missing 1 required positional argument: 'body'
+INFO:root:10-01-24 18:34:39 - Status changed for 3.134.9.225 from 0 to Remote Host appears UP
+ERROR:root:Error during pinging: send_email() missing 1 required positional argument: 'body'
+INFO:root:10-01-24 18:34:39 - Status changed for 3.134.9.225 from 0 to Remote Host appears UP
+ERROR:root:Error during pinging: send_email() missing 1 required positional argument: 'body'
+INFO:root:10-01-24 18:34:39 - Status changed for 3.134.9.225 from 0 to Remote Host appears UP
+ERROR:root:Error during pinging: send_email() missing 1 required positional argument: 'body'
+INFO:root:10-01-24 18:34:39 - Status changed for 3.134.9.225 from 0 to Remote Host appears UP
+ERROR:root:Error during pinging: send_email() missing 1 required positional argument: 'body'
+INFO:root:10-01-24 18:34:39 - Status changed for 3.134.9.225 from 0 to Remote Host appears UP
+ERROR:root:Error during pinging: send_email() missing 1 required positional argument: 'body'
+INFO:root:10-01-24 18:34:39 - Status changed for 3.134.9.225 from 0 to Remote Host appears UP
+ERROR:root:Error during pinging: send_email() missing 1 required positional argument: 'body'
+INFO:root:10-01-24 18:34:39 - Status changed for 3.134.9.225 from 0 to Remote Host appears UP
+ERROR:root:Error during pinging: send_email() missing 1 required positional argument: 'body'
+INFO:root:10-01-24 18:34:39 - Status changed for 3.134.9.225 from 0 to Remote Host appears UP
+ERROR:root:Error during pinging: send_email() missing 1 required positional argument: 'body'
+INFO:root:10-01-24 18:34:39 - Status changed for 3.134.9.225 from 0 to Remote Host appears UP
+ERROR:root:Error during pinging: send_email() missing 1 required positional argument: 'body'
+INFO:root:10-01-24 18:34:39 - Status changed for 3.134.9.225 from 0 to Remote Host appears UP
+ERROR:root:Error during pinging: send_email() missing 1 required positional argument: 'body'
+INFO:root:10-01-24 18:34:39 - Status changed for 3.134.9.225 from 0 to Remote Host appears UP
+ERROR:root:Error during pinging: send_email() missing 1 required positional argument: 'body'
+INFO:root:10-01-24 18:34:39 - Status changed for 3.134.9.225 from 0 to Remote Host appears UP
+ERROR:root:Error during pinging: send_email() missing 1 required positional argument: 'body'
+INFO:root:10-01-24 18:34:39 - Status changed for 3.134.9.225 from 0 to Remote Host appears UP
+ERROR:root:Error during pinging: send_email() missing 1 required positional argument: 'body'
+INFO:root:10-01-24 18:34:39 - Status changed for 3.134.9.225 from 0 to Remote Host appears UP
+ERROR:root:Error during pinging: send_email() missing 1 required positional argument: 'body'
+INFO:root:10-01-24 18:34:39 - Status changed for 3.134.9.225 from 0 to Remote Host appears UP
+ERROR:root:Error during pinging: send_email() missing 1 required positional argument: 'body'
+INFO:root:10-01-24 18:34:39 - Status changed for 3.134.9.225 from 0 to Remote Host appears UP
+ERROR:root:Error during pinging: send_email() missing 1 required positional argument: 'body'
+INFO:root:10-01-24 18:34:39 - Status changed for 3.134.9.225 from 0 to Remote Host appears UP
+ERROR:root:Error during pinging: send_email() missing 1 required positional argument: 'body'
+INFO:root:10-01-24 18:34:39 - Status changed for 3.134.9.225 from 0 to Remote Host appears UP
+ERROR:root:Error during pinging: send_email() missing 1 required positional argument: 'body'
+INFO:root:10-01-24 18:34:40 - Status changed for 3.134.9.225 from 0 to Remote Host appears UP
+ERROR:root:Error during pinging: send_email() missing 1 required positional argument: 'body'
+INFO:root:10-01-24 18:34:40 - Status changed for 3.134.9.225 from 0 to Remote Host appears UP
+ERROR:root:Error during pinging: send_email() missing 1 required positional argument: 'body'
+INFO:root:10-01-24 18:34:40 - Status changed for 3.134.9.225 from 0 to Remote Host appears UP
+ERROR:root:Error during pinging: send_email() missing 1 required positional argument: 'body'
+INFO:root:10-01-24 18:34:40 - Status changed for 3.134.9.225 from 0 to Remote Host appears UP
+ERROR:root:Error during pinging: send_email() missing 1 required positional argument: 'body'
+INFO:root:10-01-24 18:34:40 - Status changed for 3.134.9.225 from 0 to Remote Host appears UP
+ERROR:root:Error during pinging: send_email() missing 1 required positional argument: 'body'
+INFO:root:10-01-24 18:34:40 - Status changed for 3.134.9.225 from 0 to Remote Host appears UP
+ERROR:root:Error during pinging: send_email() missing 1 required positional argument: 'body'
+INFO:root:10-01-24 18:34:40 - Status changed for 3.134.9.225 from 0 to Remote Host appears UP
+ERROR:root:Error during pinging: send_email() missing 1 required positional argument: 'body'
+INFO:root:10-01-24 18:34:40 - Status changed for 3.134.9.225 from 0 to Remote Host appears UP
+ERROR:root:Error during pinging: send_email() missing 1 required positional argument: 'body'
+INFO:root:10-01-24 18:34:40 - Status changed for 3.134.9.225 from 0 to Remote Host appears UP
+ERROR:root:Error during pinging: send_email() missing 1 required positional argument: 'body'
+INFO:root:10-01-24 18:34:40 - Status changed for 3.134.9.225 from 0 to Remote Host appears UP
+ERROR:root:Error during pinging: send_email() missing 1 required positional argument: 'body'
+INFO:root:10-01-24 18:34:40 - Status changed for 3.134.9.225 from 0 to Remote Host appears UP
+ERROR:root:Error during pinging: send_email() missing 1 required positional argument: 'body'
+INFO:root:10-01-24 18:34:40 - Status changed for 3.134.9.225 from 0 to Remote Host appears UP
+ERROR:root:Error during pinging: send_email() missing 1 required positional argument: 'body'
+INFO:root:10-01-24 18:34:40 - Status changed for 3.134.9.225 from 0 to Remote Host appears UP
+ERROR:root:Error during pinging: send_email() missing 1 required positional argument: 'body'
+INFO:root:10-01-24 18:34:40 - Status changed for 3.134.9.225 from 0 to Remote Host appears UP
+ERROR:root:Error during pinging: send_email() missing 1 required positional argument: 'body'
+INFO:root:10-01-24 18:34:40 - Status changed for 3.134.9.225 from 0 to Remote Host appears UP
+ERROR:root:Error during pinging: send_email() missing 1 required positional argument: 'body'
+INFO:root:10-01-24 18:34:40 - Status changed for 3.134.9.225 from 0 to Remote Host appears UP
+ERROR:root:Error during pinging: send_email() missing 1 required positional argument: 'body'
+INFO:root:10-01-24 18:34:40 - Status changed for 3.134.9.225 from 0 to Remote Host appears UP
+ERROR:root:Error during pinging: send_email() missing 1 required positional argument: 'body'
+INFO:root:10-01-24 18:34:40 - Status changed for 3.134.9.225 from 0 to Remote Host appears UP
+ERROR:root:Error during pinging: send_email() missing 1 required positional argument: 'body'
+INFO:root:10-01-24 18:34:40 - Status changed for 3.134.9.225 from 0 to Remote Host appears UP
+ERROR:root:Error during pinging: send_email() missing 1 required positional argument: 'body'
+INFO:root:10-01-24 18:34:40 - Status changed for 3.134.9.225 from 0 to Remote Host appears UP
+ERROR:root:Error during pinging: send_email() missing 1 required positional argument: 'body'
+INFO:root:10-01-24 18:34:40 - Status changed for 3.134.9.225 from 0 to Remote Host appears UP
+ERROR:root:Error during pinging: send_email() missing 1 required positional argument: 'body'
+INFO:root:10-01-24 18:34:40 - Status changed for 3.134.9.225 from 0 to Remote Host appears UP
+ERROR:root:Error during pinging: send_email() missing 1 required positional argument: 'body'
+INFO:root:10-01-24 18:34:40 - Status changed for 3.134.9.225 from 0 to Remote Host appears UP
+ERROR:root:Error during pinging: send_email() missing 1 required positional argument: 'body'
+INFO:root:10-01-24 18:34:40 - Status changed for 3.134.9.225 from 0 to Remote Host appears UP
+ERROR:root:Error during pinging: send_email() missing 1 required positional argument: 'body'
+INFO:root:10-01-24 18:34:41 - Status changed for 3.134.9.225 from 0 to Remote Host appears UP
+ERROR:root:Error during pinging: send_email() missing 1 required positional argument: 'body'
+INFO:root:10-01-24 18:34:41 - Status changed for 3.134.9.225 from 0 to Remote Host appears UP
+ERROR:root:Error during pinging: send_email() missing 1 required positional argument: 'body'
+INFO:root:10-01-24 18:34:41 - Status changed for 3.134.9.225 from 0 to Remote Host appears UP
+ERROR:root:Error during pinging: send_email() missing 1 required positional argument: 'body'
+INFO:root:10-01-24 18:34:41 - Status changed for 3.134.9.225 from 0 to Remote Host appears UP
+ERROR:root:Error during pinging: send_email() missing 1 required positional argument: 'body'
+INFO:root:10-01-24 18:34:41 - Status changed for 3.134.9.225 from 0 to Remote Host appears UP
+ERROR:root:Error during pinging: send_email() missing 1 required positional argument: 'body'
+INFO:root:10-01-24 18:34:41 - Status changed for 3.134.9.225 from 0 to Remote Host appears UP
+ERROR:root:Error during pinging: send_email() missing 1 required positional argument: 'body'
+INFO:root:10-01-24 18:34:41 - Status changed for 3.134.9.225 from 0 to Remote Host appears UP
+ERROR:root:Error during pinging: send_email() missing 1 required positional argument: 'body'
+INFO:root:10-01-24 18:34:41 - Status changed for 3.134.9.225 from 0 to Remote Host appears UP
+ERROR:root:Error during pinging: send_email() missing 1 required positional argument: 'body'
+INFO:root:10-01-24 18:34:41 - Status changed for 3.134.9.225 from 0 to Remote Host appears UP
+ERROR:root:Error during pinging: send_email() missing 1 required positional argument: 'body'
+INFO:root:10-01-24 18:34:41 - Status changed for 3.134.9.225 from 0 to Remote Host appears UP
+ERROR:root:Error during pinging: send_email() missing 1 required positional argument: 'body'
+INFO:root:10-01-24 18:34:41 - Status changed for 3.134.9.225 from 0 to Remote Host appears UP
+ERROR:root:Error during pinging: send_email() missing 1 required positional argument: 'body'
+INFO:root:10-01-24 18:34:41 - Status changed for 3.134.9.225 from 0 to Remote Host appears UP
+ERROR:root:Error during pinging: send_email() missing 1 required positional argument: 'body'
+INFO:root:10-01-24 18:34:41 - Status changed for 3.134.9.225 from 0 to Remote Host appears UP
+ERROR:root:Error during pinging: send_email() missing 1 required positional argument: 'body'
+INFO:root:10-01-24 18:34:41 - Status changed for 3.134.9.225 from 0 to Remote Host appears UP
+ERROR:root:Error during pinging: send_email() missing 1 required positional argument: 'body'
+INFO:root:10-01-24 18:34:41 - Status changed for 3.134.9.225 from 0 to Remote Host appears UP
+ERROR:root:Error during pinging: send_email() missing 1 required positional argument: 'body'
+INFO:root:10-01-24 18:34:41 - Status changed for 3.134.9.225 from 0 to Remote Host appears UP
+ERROR:root:Error during pinging: send_email() missing 1 required positional argument: 'body'
+INFO:root:10-01-24 18:34:41 - Status changed for 3.134.9.225 from 0 to Remote Host appears UP
+ERROR:root:Error during pinging: send_email() missing 1 required positional argument: 'body'
+INFO:root:10-01-24 18:34:41 - Status changed for 3.134.9.225 from 0 to Remote Host appears UP
+ERROR:root:Error during pinging: send_email() missing 1 required positional argument: 'body'
+INFO:root:10-01-24 18:34:41 - Status changed for 3.134.9.225 from 0 to Remote Host appears UP
+ERROR:root:Error during pinging: send_email() missing 1 required positional argument: 'body'
+INFO:root:10-01-24 18:34:41 - Status changed for 3.134.9.225 from 0 to Remote Host appears UP
+ERROR:root:Error during pinging: send_email() missing 1 required positional argument: 'body'
+INFO:root:10-01-24 18:34:41 - Status changed for 3.134.9.225 from 0 to Remote Host appears UP
+ERROR:root:Error during pinging: send_email() missing 1 required positional argument: 'body'
+INFO:root:10-01-24 18:34:41 - Status changed for 3.134.9.225 from 0 to Remote Host appears UP
+ERROR:root:Error during pinging: send_email() missing 1 required positional argument: 'body'
+INFO:root:10-01-24 18:34:41 - Status changed for 3.134.9.225 from 0 to Remote Host appears UP
+ERROR:root:Error during pinging: send_email() missing 1 required positional argument: 'body'
+INFO:root:10-01-24 18:34:41 - Status changed for 3.134.9.225 from 0 to Remote Host appears UP
+ERROR:root:Error during pinging: send_email() missing 1 required positional argument: 'body'
+INFO:root:10-01-24 18:34:41 - Status changed for 3.134.9.225 from 0 to Remote Host appears UP
+ERROR:root:Error during pinging: send_email() missing 1 required positional argument: 'body'
+INFO:root:10-01-24 18:34:41 - Status changed for 3.134.9.225 from 0 to Remote Host appears UP
+ERROR:root:Error during pinging: send_email() missing 1 required positional argument: 'body'
+INFO:root:10-01-24 18:34:41 - Status changed for 3.134.9.225 from 0 to Remote Host appears UP
+ERROR:root:Error during pinging: send_email() missing 1 required positional argument: 'body'
+INFO:root:10-01-24 18:34:42 - Status changed for 3.134.9.225 from 0 to Remote Host appears UP
+ERROR:root:Error during pinging: send_email() missing 1 required positional argument: 'body'
+INFO:root:10-01-24 18:34:42 - Status changed for 3.134.9.225 from 0 to Remote Host appears UP
+ERROR:root:Error during pinging: send_email() missing 1 required positional argument: 'body'
+INFO:root:10-01-24 18:34:42 - Status changed for 3.134.9.225 from 0 to Remote Host appears UP
+ERROR:root:Error during pinging: send_email() missing 1 required positional argument: 'body'
+INFO:root:10-01-24 18:34:42 - Status changed for 3.134.9.225 from 0 to Remote Host appears UP
+ERROR:root:Error during pinging: send_email() missing 1 required positional argument: 'body'
+INFO:root:10-01-24 18:34:42 - Status changed for 3.134.9.225 from 0 to Remote Host appears UP
+ERROR:root:Error during pinging: send_email() missing 1 required positional argument: 'body'
+INFO:root:10-01-24 18:34:42 - Status changed for 3.134.9.225 from 0 to Remote Host appears UP
+ERROR:root:Error during pinging: send_email() missing 1 required positional argument: 'body'
+INFO:root:10-01-24 18:34:42 - Status changed for 3.134.9.225 from 0 to Remote Host appears UP
+ERROR:root:Error during pinging: send_email() missing 1 required positional argument: 'body'
+INFO:root:10-01-24 18:34:42 - Status changed for 3.134.9.225 from 0 to Remote Host appears UP
+ERROR:root:Error during pinging: send_email() missing 1 required positional argument: 'body'
+INFO:root:10-01-24 18:34:42 - Status changed for 3.134.9.225 from 0 to Remote Host appears UP
+ERROR:root:Error during pinging: send_email() missing 1 required positional argument: 'body'
+INFO:root:10-01-24 18:34:42 - Status changed for 3.134.9.225 from 0 to Remote Host appears UP
+ERROR:root:Error during pinging: send_email() missing 1 required positional argument: 'body'
+INFO:root:10-01-24 18:34:42 - Status changed for 3.134.9.225 from 0 to Remote Host appears UP
+ERROR:root:Error during pinging: send_email() missing 1 required positional argument: 'body'
+INFO:root:10-01-24 18:34:42 - Status changed for 3.134.9.225 from 0 to Remote Host appears UP
+ERROR:root:Error during pinging: send_email() missing 1 required positional argument: 'body'
+INFO:root:10-01-24 18:34:42 - Status changed for 3.134.9.225 from 0 to Remote Host appears UP
+ERROR:root:Error during pinging: send_email() missing 1 required positional argument: 'body'
+INFO:root:10-01-24 18:34:42 - Status changed for 3.134.9.225 from 0 to Remote Host appears UP
+ERROR:root:Error during pinging: send_email() missing 1 required positional argument: 'body'
+INFO:root:10-01-24 18:34:42 - Status changed for 3.134.9.225 from 0 to Remote Host appears UP
+ERROR:root:Error during pinging: send_email() missing 1 required positional argument: 'body'
+INFO:root:10-01-24 18:34:42 - Status changed for 3.134.9.225 from 0 to Remote Host appears UP
+ERROR:root:Error during pinging: send_email() missing 1 required positional argument: 'body'
+INFO:root:10-01-24 18:34:42 - Status changed for 3.134.9.225 from 0 to Remote Host appears UP
+ERROR:root:Error during pinging: send_email() missing 1 required positional argument: 'body'
+INFO:root:10-01-24 18:34:42 - Status changed for 3.134.9.225 from 0 to Remote Host appears UP
+ERROR:root:Error during pinging: send_email() missing 1 required positional argument: 'body'
+INFO:root:10-01-24 18:34:42 - Status changed for 3.134.9.225 from 0 to Remote Host appears UP
+ERROR:root:Error during pinging: send_email() missing 1 required positional argument: 'body'
+INFO:root:10-01-24 18:34:42 - Status changed for 3.134.9.225 from 0 to Remote Host appears UP
+ERROR:root:Error during pinging: send_email() missing 1 required positional argument: 'body'
+INFO:root:10-01-24 18:34:42 - Status changed for 3.134.9.225 from 0 to Remote Host appears UP
+ERROR:root:Error during pinging: send_email() missing 1 required positional argument: 'body'
+INFO:root:10-01-24 18:34:42 - Status changed for 3.134.9.225 from 0 to Remote Host appears UP
+ERROR:root:Error during pinging: send_email() missing 1 required positional argument: 'body'
+INFO:root:10-01-24 18:34:42 - Status changed for 3.134.9.225 from 0 to Remote Host appears UP
+ERROR:root:Error during pinging: send_email() missing 1 required positional argument: 'body'
+INFO:root:10-01-24 18:34:42 - Status changed for 3.134.9.225 from 0 to Remote Host appears UP
+ERROR:root:Error during pinging: send_email() missing 1 required positional argument: 'body'
+INFO:root:10-01-24 18:34:42 - Status changed for 3.134.9.225 from 0 to Remote Host appears UP
+ERROR:root:Error during pinging: send_email() missing 1 required positional argument: 'body'
+INFO:root:10-01-24 18:34:42 - Status changed for 3.134.9.225 from 0 to Remote Host appears UP
+ERROR:root:Error during pinging: send_email() missing 1 required positional argument: 'body'
+INFO:root:10-01-24 18:34:42 - Status changed for 3.134.9.225 from 0 to Remote Host appears UP
+ERROR:root:Error during pinging: send_email() missing 1 required positional argument: 'body'
+INFO:root:10-01-24 18:34:42 - Status changed for 3.134.9.225 from 0 to Remote Host appears UP
+ERROR:root:Error during pinging: send_email() missing 1 required positional argument: 'body'
+INFO:root:10-01-24 18:34:43 - Status changed for 3.134.9.225 from 0 to Remote Host appears UP
+ERROR:root:Error during pinging: send_email() missing 1 required positional argument: 'body'
+INFO:root:10-01-24 18:34:43 - Status changed for 3.134.9.225 from 0 to Remote Host appears UP
+ERROR:root:Error during pinging: send_email() missing 1 required positional argument: 'body'
+INFO:root:10-01-24 18:34:43 - Status changed for 3.134.9.225 from 0 to Remote Host appears UP
+ERROR:root:Error during pinging: send_email() missing 1 required positional argument: 'body'
+INFO:root:10-01-24 18:34:43 - Status changed for 3.134.9.225 from 0 to Remote Host appears UP
+ERROR:root:Error during pinging: send_email() missing 1 required positional argument: 'body'
+INFO:root:10-01-24 18:34:43 - Status changed for 3.134.9.225 from 0 to Remote Host appears UP
+ERROR:root:Error during pinging: send_email() missing 1 required positional argument: 'body'
+INFO:root:10-01-24 18:34:43 - Status changed for 3.134.9.225 from 0 to Remote Host appears UP
+ERROR:root:Error during pinging: send_email() missing 1 required positional argument: 'body'
+INFO:root:10-01-24 18:34:43 - Status changed for 3.134.9.225 from 0 to Remote Host appears UP
+ERROR:root:Error during pinging: send_email() missing 1 required positional argument: 'body'
+INFO:root:10-01-24 18:34:43 - Status changed for 3.134.9.225 from 0 to Remote Host appears UP
+ERROR:root:Error during pinging: send_email() missing 1 required positional argument: 'body'
+INFO:root:10-01-24 18:34:43 - Status changed for 3.134.9.225 from 0 to Remote Host appears UP
+ERROR:root:Error during pinging: send_email() missing 1 required positional argument: 'body'
+INFO:root:10-01-24 18:34:43 - Status changed for 3.134.9.225 from 0 to Remote Host appears UP
+ERROR:root:Error during pinging: send_email() missing 1 required positional argument: 'body'
+INFO:root:10-01-24 18:34:43 - Status changed for 3.134.9.225 from 0 to Remote Host appears UP
+ERROR:root:Error during pinging: send_email() missing 1 required positional argument: 'body'
+INFO:root:10-01-24 18:34:43 - Status changed for 3.134.9.225 from 0 to Remote Host appears UP
+ERROR:root:Error during pinging: send_email() missing 1 required positional argument: 'body'
+INFO:root:10-01-24 18:34:43 - Status changed for 3.134.9.225 from 0 to Remote Host appears UP
+ERROR:root:Error during pinging: send_email() missing 1 required positional argument: 'body'
+INFO:root:10-01-24 18:34:43 - Status changed for 3.134.9.225 from 0 to Remote Host appears UP
+ERROR:root:Error during pinging: send_email() missing 1 required positional argument: 'body'
+INFO:root:10-01-24 18:34:43 - Status changed for 3.134.9.225 from 0 to Remote Host appears UP
+ERROR:root:Error during pinging: send_email() missing 1 required positional argument: 'body'
+INFO:root:10-01-24 18:34:43 - Status changed for 3.134.9.225 from 0 to Remote Host appears UP
+ERROR:root:Error during pinging: send_email() missing 1 required positional argument: 'body'
+INFO:root:10-01-24 18:34:43 - Status changed for 3.134.9.225 from 0 to Remote Host appears UP
+ERROR:root:Error during pinging: send_email() missing 1 required positional argument: 'body'
+INFO:root:10-01-24 18:34:43 - Status changed for 3.134.9.225 from 0 to Remote Host appears UP
+ERROR:root:Error during pinging: send_email() missing 1 required positional argument: 'body'
+INFO:root:10-01-24 18:34:43 - Status changed for 3.134.9.225 from 0 to Remote Host appears UP
+ERROR:root:Error during pinging: send_email() missing 1 required positional argument: 'body'
+INFO:root:10-01-24 18:34:43 - Status changed for 3.134.9.225 from 0 to Remote Host appears UP
+ERROR:root:Error during pinging: send_email() missing 1 required positional argument: 'body'
+INFO:root:10-01-24 18:34:43 - Status changed for 3.134.9.225 from 0 to Remote Host appears UP
+ERROR:root:Error during pinging: send_email() missing 1 required positional argument: 'body'
+INFO:root:10-01-24 18:34:43 - Status changed for 3.134.9.225 from 0 to Remote Host appears UP
+ERROR:root:Error during pinging: send_email() missing 1 required positional argument: 'body'
+INFO:root:10-01-24 18:34:43 - Status changed for 3.134.9.225 from 0 to Remote Host appears UP
+ERROR:root:Error during pinging: send_email() missing 1 required positional argument: 'body'
+INFO:root:10-01-24 18:34:43 - Status changed for 3.134.9.225 from 0 to Remote Host appears UP
+ERROR:root:Error during pinging: send_email() missing 1 required positional argument: 'body'
+INFO:root:10-01-24 18:34:43 - Status changed for 3.134.9.225 from 0 to Remote Host appears UP
+ERROR:root:Error during pinging: send_email() missing 1 required positional argument: 'body'
+INFO:root:10-01-24 18:34:43 - Status changed for 3.134.9.225 from 0 to Remote Host appears UP
+ERROR:root:Error during pinging: send_email() missing 1 required positional argument: 'body'
+INFO:root:10-01-24 18:34:43 - Status changed for 3.134.9.225 from 0 to Remote Host appears UP
+ERROR:root:Error during pinging: send_email() missing 1 required positional argument: 'body'
+INFO:root:10-01-24 18:34:43 - Status changed for 3.134.9.225 from 0 to Remote Host appears UP
+ERROR:root:Error during pinging: send_email() missing 1 required positional argument: 'body'
+INFO:root:10-01-24 18:34:44 - Status changed for 3.134.9.225 from 0 to Remote Host appears UP
+ERROR:root:Error during pinging: send_email() missing 1 required positional argument: 'body'
+INFO:root:10-01-24 18:34:44 - Status changed for 3.134.9.225 from 0 to Remote Host appears UP
+ERROR:root:Error during pinging: send_email() missing 1 required positional argument: 'body'
+INFO:root:10-01-24 18:34:44 - Status changed for 3.134.9.225 from 0 to Remote Host appears UP
+ERROR:root:Error during pinging: send_email() missing 1 required positional argument: 'body'
+INFO:root:10-01-24 18:34:44 - Status changed for 3.134.9.225 from 0 to Remote Host appears UP
+ERROR:root:Error during pinging: send_email() missing 1 required positional argument: 'body'
+INFO:root:10-01-24 18:34:44 - Status changed for 3.134.9.225 from 0 to Remote Host appears UP
+ERROR:root:Error during pinging: send_email() missing 1 required positional argument: 'body'
+INFO:root:10-01-24 18:34:44 - Status changed for 3.134.9.225 from 0 to Remote Host appears UP
+ERROR:root:Error during pinging: send_email() missing 1 required positional argument: 'body'
+INFO:root:10-01-24 18:34:44 - Status changed for 3.134.9.225 from 0 to Remote Host appears UP
+ERROR:root:Error during pinging: send_email() missing 1 required positional argument: 'body'
+INFO:root:10-01-24 18:34:44 - Status changed for 3.134.9.225 from 0 to Remote Host appears UP
+ERROR:root:Error during pinging: send_email() missing 1 required positional argument: 'body'
+INFO:root:10-01-24 18:34:44 - Status changed for 3.134.9.225 from 0 to Remote Host appears UP
+ERROR:root:Error during pinging: send_email() missing 1 required positional argument: 'body'
+INFO:root:10-01-24 18:34:44 - Status changed for 3.134.9.225 from 0 to Remote Host appears UP
+ERROR:root:Error during pinging: send_email() missing 1 required positional argument: 'body'
+INFO:root:10-01-24 18:34:44 - Status changed for 3.134.9.225 from 0 to Remote Host appears UP
+ERROR:root:Error during pinging: send_email() missing 1 required positional argument: 'body'
+INFO:root:10-01-24 18:34:44 - Status changed for 3.134.9.225 from 0 to Remote Host appears UP
+ERROR:root:Error during pinging: send_email() missing 1 required positional argument: 'body'
+INFO:root:10-01-24 18:34:44 - Status changed for 3.134.9.225 from 0 to Remote Host appears UP
+ERROR:root:Error during pinging: send_email() missing 1 required positional argument: 'body'
+INFO:root:10-01-24 18:34:44 - Status changed for 3.134.9.225 from 0 to Remote Host appears UP
+ERROR:root:Error during pinging: send_email() missing 1 required positional argument: 'body'
+INFO:root:10-01-24 18:34:44 - Status changed for 3.134.9.225 from 0 to Remote Host appears UP
+ERROR:root:Error during pinging: send_email() missing 1 required positional argument: 'body'
+INFO:root:10-01-24 18:34:44 - Status changed for 3.134.9.225 from 0 to Remote Host appears UP
+ERROR:root:Error during pinging: send_email() missing 1 required positional argument: 'body'
+INFO:root:10-01-24 18:34:44 - Status changed for 3.134.9.225 from 0 to Remote Host appears UP
+ERROR:root:Error during pinging: send_email() missing 1 required positional argument: 'body'
+INFO:root:10-01-24 18:34:44 - Status changed for 3.134.9.225 from 0 to Remote Host appears UP
+ERROR:root:Error during pinging: send_email() missing 1 required positional argument: 'body'
+INFO:root:10-01-24 18:34:44 - Status changed for 3.134.9.225 from 0 to Remote Host appears UP
+ERROR:root:Error during pinging: send_email() missing 1 required positional argument: 'body'
+INFO:root:10-01-24 18:34:44 - Status changed for 3.134.9.225 from 0 to Remote Host appears UP
+ERROR:root:Error during pinging: send_email() missing 1 required positional argument: 'body'
+INFO:root:10-01-24 18:34:44 - Status changed for 3.134.9.225 from 0 to Remote Host appears UP
+ERROR:root:Error during pinging: send_email() missing 1 required positional argument: 'body'
+INFO:root:10-01-24 18:34:44 - Status changed for 3.134.9.225 from 0 to Remote Host appears UP
+ERROR:root:Error during pinging: send_email() missing 1 required positional argument: 'body'
+INFO:root:10-01-24 18:34:44 - Status changed for 3.134.9.225 from 0 to Remote Host appears UP
+ERROR:root:Error during pinging: send_email() missing 1 required positional argument: 'body'
+INFO:root:10-01-24 18:34:44 - Status changed for 3.134.9.225 from 0 to Remote Host appears UP
+ERROR:root:Error during pinging: send_email() missing 1 required positional argument: 'body'
+INFO:root:10-01-24 18:34:44 - Status changed for 3.134.9.225 from 0 to Remote Host appears UP
+ERROR:root:Error during pinging: send_email() missing 1 required positional argument: 'body'
+INFO:root:10-01-24 18:34:44 - Status changed for 3.134.9.225 from 0 to Remote Host appears UP
+ERROR:root:Error during pinging: send_email() missing 1 required positional argument: 'body'
+INFO:root:10-01-24 18:34:44 - Status changed for 3.134.9.225 from 0 to Remote Host appears UP
+ERROR:root:Error during pinging: send_email() missing 1 required positional argument: 'body'
+INFO:root:10-01-24 18:34:45 - Status changed for 3.134.9.225 from 0 to Remote Host appears UP
+ERROR:root:Error during pinging: send_email() missing 1 required positional argument: 'body'
+INFO:root:10-01-24 18:34:45 - Status changed for 3.134.9.225 from 0 to Remote Host appears UP
+ERROR:root:Error during pinging: send_email() missing 1 required positional argument: 'body'
+INFO:root:10-01-24 18:34:45 - Status changed for 3.134.9.225 from 0 to Remote Host appears UP
+ERROR:root:Error during pinging: send_email() missing 1 required positional argument: 'body'
+INFO:root:10-01-24 18:34:45 - Status changed for 3.134.9.225 from 0 to Remote Host appears UP
+ERROR:root:Error during pinging: send_email() missing 1 required positional argument: 'body'
+INFO:root:10-01-24 18:34:45 - Status changed for 3.134.9.225 from 0 to Remote Host appears UP
+ERROR:root:Error during pinging: send_email() missing 1 required positional argument: 'body'
+INFO:root:10-01-24 18:34:45 - Status changed for 3.134.9.225 from 0 to Remote Host appears UP
+ERROR:root:Error during pinging: send_email() missing 1 required positional argument: 'body'
+INFO:root:10-01-24 18:34:45 - Status changed for 3.134.9.225 from 0 to Remote Host appears UP
+ERROR:root:Error during pinging: send_email() missing 1 required positional argument: 'body'
+INFO:root:10-01-24 18:34:45 - Status changed for 3.134.9.225 from 0 to Remote Host appears UP
+ERROR:root:Error during pinging: send_email() missing 1 required positional argument: 'body'
+INFO:root:10-01-24 18:34:45 - Status changed for 3.134.9.225 from 0 to Remote Host appears UP
+ERROR:root:Error during pinging: send_email() missing 1 required positional argument: 'body'
+INFO:root:10-01-24 18:34:45 - Status changed for 3.134.9.225 from 0 to Remote Host appears UP
+ERROR:root:Error during pinging: send_email() missing 1 required positional argument: 'body'
+INFO:root:10-01-24 18:34:45 - Status changed for 3.134.9.225 from 0 to Remote Host appears UP
+ERROR:root:Error during pinging: send_email() missing 1 required positional argument: 'body'
+INFO:root:10-01-24 18:34:45 - Status changed for 3.134.9.225 from 0 to Remote Host appears UP
+ERROR:root:Error during pinging: send_email() missing 1 required positional argument: 'body'
+INFO:root:10-01-24 18:34:45 - Status changed for 3.134.9.225 from 0 to Remote Host appears UP
+ERROR:root:Error during pinging: send_email() missing 1 required positional argument: 'body'
+INFO:root:10-01-24 18:34:45 - Status changed for 3.134.9.225 from 0 to Remote Host appears UP
+ERROR:root:Error during pinging: send_email() missing 1 required positional argument: 'body'
+INFO:root:10-01-24 18:34:45 - Status changed for 3.134.9.225 from 0 to Remote Host appears UP
+ERROR:root:Error during pinging: send_email() missing 1 required positional argument: 'body'
+INFO:root:10-01-24 18:34:45 - Status changed for 3.134.9.225 from 0 to Remote Host appears UP
+ERROR:root:Error during pinging: send_email() missing 1 required positional argument: 'body'
+INFO:root:10-01-24 18:34:45 - Status changed for 3.134.9.225 from 0 to Remote Host appears UP
+ERROR:root:Error during pinging: send_email() missing 1 required positional argument: 'body'
+INFO:root:10-01-24 18:34:45 - Status changed for 3.134.9.225 from 0 to Remote Host appears UP
+ERROR:root:Error during pinging: send_email() missing 1 required positional argument: 'body'
+INFO:root:10-01-24 18:34:45 - Status changed for 3.134.9.225 from 0 to Remote Host appears UP
+ERROR:root:Error during pinging: send_email() missing 1 required positional argument: 'body'
+INFO:root:10-01-24 18:34:45 - Status changed for 3.134.9.225 from 0 to Remote Host appears UP
+ERROR:root:Error during pinging: send_email() missing 1 required positional argument: 'body'
+INFO:root:10-01-24 18:34:45 - Status changed for 3.134.9.225 from 0 to Remote Host appears UP
+ERROR:root:Error during pinging: send_email() missing 1 required positional argument: 'body'
+INFO:root:10-01-24 18:34:45 - Status changed for 3.134.9.225 from 0 to Remote Host appears UP
+ERROR:root:Error during pinging: send_email() missing 1 required positional argument: 'body'
+INFO:root:10-01-24 18:34:45 - Status changed for 3.134.9.225 from 0 to Remote Host appears UP
+ERROR:root:Error during pinging: send_email() missing 1 required positional argument: 'body'
+INFO:root:10-01-24 18:34:45 - Status changed for 3.134.9.225 from 0 to Remote Host appears UP
+ERROR:root:Error during pinging: send_email() missing 1 required positional argument: 'body'
+INFO:root:10-01-24 18:34:45 - Status changed for 3.134.9.225 from 0 to Remote Host appears UP
+ERROR:root:Error during pinging: send_email() missing 1 required positional argument: 'body'
+INFO:root:10-01-24 18:34:45 - Status changed for 3.134.9.225 from 0 to Remote Host appears UP
+ERROR:root:Error during pinging: send_email() missing 1 required positional argument: 'body'
+INFO:root:10-01-24 18:34:45 - Status changed for 3.134.9.225 from 0 to Remote Host appears UP
+ERROR:root:Error during pinging: send_email() missing 1 required positional argument: 'body'
+INFO:root:10-01-24 18:34:45 - Status changed for 3.134.9.225 from 0 to Remote Host appears UP
+ERROR:root:Error during pinging: send_email() missing 1 required positional argument: 'body'
+INFO:root:10-01-24 18:34:46 - Status changed for 3.134.9.225 from 0 to Remote Host appears UP
+ERROR:root:Error during pinging: send_email() missing 1 required positional argument: 'body'
+INFO:root:10-01-24 18:34:46 - Status changed for 3.134.9.225 from 0 to Remote Host appears UP
+ERROR:root:Error during pinging: send_email() missing 1 required positional argument: 'body'
+INFO:root:10-01-24 18:34:46 - Status changed for 3.134.9.225 from 0 to Remote Host appears UP
+ERROR:root:Error during pinging: send_email() missing 1 required positional argument: 'body'
+INFO:root:10-01-24 18:34:46 - Status changed for 3.134.9.225 from 0 to Remote Host appears UP
+ERROR:root:Error during pinging: send_email() missing 1 required positional argument: 'body'
+INFO:root:10-01-24 18:34:46 - Status changed for 3.134.9.225 from 0 to Remote Host appears UP
+ERROR:root:Error during pinging: send_email() missing 1 required positional argument: 'body'
+INFO:root:10-01-24 18:34:46 - Status changed for 3.134.9.225 from 0 to Remote Host appears UP
+ERROR:root:Error during pinging: send_email() missing 1 required positional argument: 'body'
+INFO:root:10-01-24 18:34:46 - Status changed for 3.134.9.225 from 0 to Remote Host appears UP
+ERROR:root:Error during pinging: send_email() missing 1 required positional argument: 'body'
+INFO:root:10-01-24 18:34:46 - Status changed for 3.134.9.225 from 0 to Remote Host appears UP
+ERROR:root:Error during pinging: send_email() missing 1 required positional argument: 'body'
+INFO:root:10-01-24 18:34:46 - Status changed for 3.134.9.225 from 0 to Remote Host appears UP
+ERROR:root:Error during pinging: send_email() missing 1 required positional argument: 'body'
+INFO:root:10-01-24 18:34:46 - Status changed for 3.134.9.225 from 0 to Remote Host appears UP
+ERROR:root:Error during pinging: send_email() missing 1 required positional argument: 'body'
+INFO:root:10-01-24 18:34:46 - Status changed for 3.134.9.225 from 0 to Remote Host appears UP
+ERROR:root:Error during pinging: send_email() missing 1 required positional argument: 'body'
+INFO:root:10-01-24 18:34:46 - Status changed for 3.134.9.225 from 0 to Remote Host appears UP
+ERROR:root:Error during pinging: send_email() missing 1 required positional argument: 'body'
+INFO:root:10-01-24 18:34:46 - Status changed for 3.134.9.225 from 0 to Remote Host appears UP
+ERROR:root:Error during pinging: send_email() missing 1 required positional argument: 'body'
+INFO:root:10-01-24 18:34:46 - Status changed for 3.134.9.225 from 0 to Remote Host appears UP
+ERROR:root:Error during pinging: send_email() missing 1 required positional argument: 'body'
+INFO:root:10-01-24 18:34:46 - Status changed for 3.134.9.225 from 0 to Remote Host appears UP
+ERROR:root:Error during pinging: send_email() missing 1 required positional argument: 'body'
+INFO:root:10-01-24 18:34:46 - Status changed for 3.134.9.225 from 0 to Remote Host appears UP
+ERROR:root:Error during pinging: send_email() missing 1 required positional argument: 'body'
+INFO:root:10-01-24 18:34:46 - Status changed for 3.134.9.225 from 0 to Remote Host appears UP
+ERROR:root:Error during pinging: send_email() missing 1 required positional argument: 'body'
+INFO:root:10-01-24 18:34:46 - Status changed for 3.134.9.225 from 0 to Remote Host appears UP
+ERROR:root:Error during pinging: send_email() missing 1 required positional argument: 'body'
+INFO:root:10-01-24 18:34:46 - Status changed for 3.134.9.225 from 0 to Remote Host appears UP
+ERROR:root:Error during pinging: send_email() missing 1 required positional argument: 'body'
+INFO:root:10-01-24 18:34:46 - Status changed for 3.134.9.225 from 0 to Remote Host appears UP
+ERROR:root:Error during pinging: send_email() missing 1 required positional argument: 'body'
+INFO:root:10-01-24 18:34:46 - Status changed for 3.134.9.225 from 0 to Remote Host appears UP
+ERROR:root:Error during pinging: send_email() missing 1 required positional argument: 'body'
+INFO:root:10-01-24 18:34:46 - Status changed for 3.134.9.225 from 0 to Remote Host appears UP
+ERROR:root:Error during pinging: send_email() missing 1 required positional argument: 'body'
+INFO:root:10-01-24 18:34:46 - Status changed for 3.134.9.225 from 0 to Remote Host appears UP
+ERROR:root:Error during pinging: send_email() missing 1 required positional argument: 'body'
+INFO:root:10-01-24 18:34:46 - Status changed for 3.134.9.225 from 0 to Remote Host appears UP
+ERROR:root:Error during pinging: send_email() missing 1 required positional argument: 'body'
+INFO:root:10-01-24 18:34:46 - Status changed for 3.134.9.225 from 0 to Remote Host appears UP
+ERROR:root:Error during pinging: send_email() missing 1 required positional argument: 'body'
+INFO:root:10-01-24 18:34:46 - Status changed for 3.134.9.225 from 0 to Remote Host appears UP
+ERROR:root:Error during pinging: send_email() missing 1 required positional argument: 'body'
+INFO:root:10-01-24 18:34:46 - Status changed for 3.134.9.225 from 0 to Remote Host appears UP
+ERROR:root:Error during pinging: send_email() missing 1 required positional argument: 'body'
+INFO:root:10-01-24 18:34:46 - Status changed for 3.134.9.225 from 0 to Remote Host appears UP
+ERROR:root:Error during pinging: send_email() missing 1 required positional argument: 'body'
+INFO:root:10-01-24 18:34:47 - Status changed for 3.134.9.225 from 0 to Remote Host appears UP
+ERROR:root:Error during pinging: send_email() missing 1 required positional argument: 'body'
+INFO:root:10-01-24 18:34:47 - Status changed for 3.134.9.225 from 0 to Remote Host appears UP
+ERROR:root:Error during pinging: send_email() missing 1 required positional argument: 'body'
+INFO:root:10-01-24 18:34:47 - Status changed for 3.134.9.225 from 0 to Remote Host appears UP
+ERROR:root:Error during pinging: send_email() missing 1 required positional argument: 'body'
+INFO:root:10-01-24 18:34:47 - Status changed for 3.134.9.225 from 0 to Remote Host appears UP
+ERROR:root:Error during pinging: send_email() missing 1 required positional argument: 'body'
+INFO:root:10-01-24 18:34:47 - Status changed for 3.134.9.225 from 0 to Remote Host appears UP
+ERROR:root:Error during pinging: send_email() missing 1 required positional argument: 'body'
+INFO:root:10-01-24 18:34:47 - Status changed for 3.134.9.225 from 0 to Remote Host appears UP
+ERROR:root:Error during pinging: send_email() missing 1 required positional argument: 'body'
+INFO:root:10-01-24 18:34:47 - Status changed for 3.134.9.225 from 0 to Remote Host appears UP
+ERROR:root:Error during pinging: send_email() missing 1 required positional argument: 'body'
+INFO:root:10-01-24 18:34:47 - Status changed for 3.134.9.225 from 0 to Remote Host appears UP
+ERROR:root:Error during pinging: send_email() missing 1 required positional argument: 'body'
+INFO:root:10-01-24 18:34:47 - Status changed for 3.134.9.225 from 0 to Remote Host appears UP
+ERROR:root:Error during pinging: send_email() missing 1 required positional argument: 'body'
+INFO:root:10-01-24 18:34:47 - Status changed for 3.134.9.225 from 0 to Remote Host appears UP
+ERROR:root:Error during pinging: send_email() missing 1 required positional argument: 'body'
+INFO:root:10-01-24 18:34:47 - Status changed for 3.134.9.225 from 0 to Remote Host appears UP
+ERROR:root:Error during pinging: send_email() missing 1 required positional argument: 'body'
+INFO:root:10-01-24 18:34:47 - Status changed for 3.134.9.225 from 0 to Remote Host appears UP
+ERROR:root:Error during pinging: send_email() missing 1 required positional argument: 'body'
+INFO:root:10-01-24 18:34:48 - Status changed for 3.134.9.225 from 0 to Remote Host appears DOWN
+ERROR:root:Error during pinging: send_email() missing 1 required positional argument: 'body'
+INFO:root:10-01-24 18:34:49 - Status changed for 3.134.9.225 from 0 to Remote Host appears DOWN
+ERROR:root:Error during pinging: send_email() missing 1 required positional argument: 'body'
+INFO:root:10-01-24 18:34:50 - Status changed for 3.134.9.225 from 0 to Remote Host appears DOWN
+ERROR:root:Error during pinging: send_email() missing 1 required positional argument: 'body'
+INFO:root:10-01-24 18:34:51 - Status changed for 3.134.9.225 from 0 to Remote Host appears DOWN
+ERROR:root:Error during pinging: send_email() missing 1 required positional argument: 'body'
+INFO:root:10-01-24 18:34:52 - Status changed for 3.134.9.225 from 0 to Remote Host appears DOWN
+ERROR:root:Error during pinging: send_email() missing 1 required positional argument: 'body'
+INFO:root:10-01-24 18:34:53 - Status changed for 3.134.9.225 from 0 to Remote Host appears DOWN
+ERROR:root:Error during pinging: send_email() missing 1 required positional argument: 'body'
+INFO:root:10-01-24 18:34:54 - Status changed for 3.134.9.225 from 0 to Remote Host appears DOWN
+ERROR:root:Error during pinging: send_email() missing 1 required positional argument: 'body'
+INFO:root:10-01-24 18:34:55 - Status changed for 3.134.9.225 from 0 to Remote Host appears DOWN
+ERROR:root:Error during pinging: send_email() missing 1 required positional argument: 'body'
+INFO:root:10-01-24 18:34:56 - Status changed for 3.134.9.225 from 0 to Remote Host appears DOWN
+ERROR:root:Error during pinging: send_email() missing 1 required positional argument: 'body'
+INFO:root:10-01-24 18:34:57 - Status changed for 3.134.9.225 from 0 to Remote Host appears DOWN
+ERROR:root:Error during pinging: send_email() missing 1 required positional argument: 'body'
+INFO:root:10-01-24 18:34:58 - Status changed for 3.134.9.225 from 0 to Remote Host appears DOWN
+ERROR:root:Error during pinging: send_email() missing 1 required positional argument: 'body'
+INFO:root:10-01-24 18:34:59 - Status changed for 3.134.9.225 from 0 to Remote Host appears DOWN
+ERROR:root:Error during pinging: send_email() missing 1 required positional argument: 'body'
+INFO:root:10-01-24 18:35:00 - Status changed for 3.134.9.225 from 0 to Remote Host appears DOWN
+ERROR:root:Error during pinging: send_email() missing 1 required positional argument: 'body'
+INFO:root:10-01-24 18:35:01 - Status changed for 3.134.9.225 from 0 to Remote Host appears DOWN
+ERROR:root:Error during pinging: send_email() missing 1 required positional argument: 'body'
+INFO:root:10-01-24 18:35:02 - Status changed for 3.134.9.225 from 0 to Remote Host appears DOWN
+ERROR:root:Error during pinging: send_email() missing 1 required positional argument: 'body'
+INFO:root:10-01-24 18:35:03 - Status changed for 3.134.9.225 from 0 to Remote Host appears DOWN
+ERROR:root:Error during pinging: send_email() missing 1 required positional argument: 'body'
+INFO:root:10-01-24 18:35:04 - Status changed for 3.134.9.225 from 0 to Remote Host appears DOWN
+ERROR:root:Error during pinging: send_email() missing 1 required positional argument: 'body'
+INFO:root:10-01-24 18:35:05 - Status changed for 3.134.9.225 from 0 to Remote Host appears DOWN
+ERROR:root:Error during pinging: send_email() missing 1 required positional argument: 'body'
+INFO:root:10-01-24 18:35:06 - Status changed for 3.134.9.225 from 0 to Remote Host appears DOWN
+ERROR:root:Error during pinging: send_email() missing 1 required positional argument: 'body'
+INFO:root:10-01-24 18:35:07 - Status changed for 3.134.9.225 from 0 to Remote Host appears DOWN
+ERROR:root:Error during pinging: send_email() missing 1 required positional argument: 'body'
+INFO:root:10-01-24 18:35:08 - Status changed for 3.134.9.225 from 0 to Remote Host appears DOWN
+ERROR:root:Error during pinging: send_email() missing 1 required positional argument: 'body'
+INFO:root:10-01-24 18:35:09 - Status changed for 3.134.9.225 from 0 to Remote Host appears DOWN
+ERROR:root:Error during pinging: send_email() missing 1 required positional argument: 'body'
+INFO:root:10-01-24 18:35:10 - Status changed for 3.134.9.225 from 0 to Remote Host appears DOWN
+ERROR:root:Error during pinging: send_email() missing 1 required positional argument: 'body'
+INFO:root:10-01-24 18:35:11 - Status changed for 3.134.9.225 from 0 to Remote Host appears DOWN
+ERROR:root:Error during pinging: send_email() missing 1 required positional argument: 'body'
+INFO:root:10-01-24 18:35:12 - Status changed for 3.134.9.225 from 0 to Remote Host appears DOWN
+ERROR:root:Error during pinging: send_email() missing 1 required positional argument: 'body'
+INFO:root:10-01-24 18:35:13 - Status changed for 3.134.9.225 from 0 to Remote Host appears DOWN
+ERROR:root:Error during pinging: send_email() missing 1 required positional argument: 'body'
+INFO:root:10-01-24 18:35:14 - Status changed for 3.134.9.225 from 0 to Remote Host appears DOWN
+ERROR:root:Error during pinging: send_email() missing 1 required positional argument: 'body'
+INFO:root:10-01-24 18:35:15 - Status changed for 3.134.9.225 from 0 to Remote Host appears DOWN
+ERROR:root:Error during pinging: send_email() missing 1 required positional argument: 'body'
+INFO:root:10-01-24 18:35:16 - Status changed for 3.134.9.225 from 0 to Remote Host appears DOWN
+ERROR:root:Error during pinging: send_email() missing 1 required positional argument: 'body'
+INFO:root:10-01-24 22:58:17 - Status changed for 8.8.8.8 from 0 to Remote Host appears UP
+INFO:root:10-01-24 23:12:23 - Status changed for 8.8.8.8 from empty to Remote Host appears UP
+ERROR:root:Error during pinging: name 'context' is not defined
+INFO:root:10-01-24 23:15:28 - Status changed for 8.8.8.8 from empty to Remote Host appears UP
+ERROR:root:Error during pinging: (535, b'5.7.8 Username and Password not accepted. For more information, go to\n5.7.8  https://support.google.com/mail/?p=BadCredentials rg12-20020a056871630c00b00206836afc85sm50307oab.53 - gsmtp')
+INFO:root:10-01-24 23:16:24 - Status changed for 8.8.8.8 from empty to Remote Host appears UP
+ERROR:root:Error during pinging: (535, b'5.7.8 Username and Password not accepted. For more information, go to\n5.7.8  https://support.google.com/mail/?p=BadCredentials a12-20020a4ad5cc000000b005912a3b64adsm50470oot.43 - gsmtp')
+INFO:root:10-01-24 23:18:52 - Status changed for 8.8.8.8 from empty to Remote Host appears UP
+ERROR:root:Error during pinging: [Errno -2] Name or service not known
+INFO:root:10-01-24 23:24:08 - Status changed for 8.8.8.8 from empty to Remote Host appears UP
+ERROR:root:Error during pinging: [Errno 111] Connection refused
+INFO:root:10-01-24 23:25:49 - Status changed for 8.8.8.8 from empty to Remote Host appears UP
