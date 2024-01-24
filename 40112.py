@@ -28,14 +28,14 @@ def getTgt2():
 
 def getPort():
     portList = []
-    ports = input("enter a port of interest for TCP scan: ")
+    ports = input("enter a port of interest for the target host(s): ")
     print("\ngot it, looking at",ports,"\n")
     portList.append(ports)
 
     morePorts = input("do you want to add another port? y/n ")
     if morePorts == 'y':
         while True:
-            ports = input("\nenter a port of interest for TCP scan: ['q' to break] ")
+            ports = input("\nenter another port of interest: ['q' to break]\n")
             if ports == 'q':
                 break
             print("got it, looking at",ports,"\n")
@@ -106,6 +106,7 @@ def icmp_ping_sweep():
     netCidr = getTgt2()
     targets = ip_network(netCidr)
     hostReplies = 0
+    hostList = []
 
     for host in targets.hosts():
 
@@ -127,7 +128,7 @@ def icmp_ping_sweep():
             hostReplies += 1
 
     print(f"\nNumber of active hosts: {hostReplies}")
-    print(hostList)
+    
     return hostList
 
 ###########################################################################################################
@@ -136,9 +137,10 @@ def scan_up_hosts(hostList):
     portList = getPort()
 
     for host in hostList:
+        new_host = str(host)
         print(f"\n##########\nTARGETING:\n  {host}\nON PORTS:\n  {portList}\n##########\n")
 
-        test = portTester(host, portList)
+        test = portTester(new_host, portList)
         print("\nRESULTS for host", host, ":\n")
         print(test)
 
