@@ -69,8 +69,6 @@ def mode1():
     password_list = mode1PrepA()
     mode1PrepB(password_list)
     
-    # function to check user input against nltk wordlist
-
 #################################################################################################
 # function for nltk to get words from online dict and save to a wordlist - from the warmup
 def mode2PrepA():
