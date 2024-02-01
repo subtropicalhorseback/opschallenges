@@ -179,7 +179,7 @@ def sshAttempt(host, user, password, port=22):
         ssh.close()
 
 # main function
-def main():
+def execSSH():
     getHost()
     getUser()
 
