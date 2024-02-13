@@ -4,43 +4,53 @@
 ## assigns outcome to a variable
 ## prints transmissions as date-time - outcome - dest ip
 
+# 12 Feb added logging
+
+import logging
 from datetime import datetime
 import time
 import subprocess
 
-destIP = str(input("enter a target IP: "))
-print("Ok, pinging",destIP,"\n\n")
+# Configure logging
+logging.basicConfig(filename='ping_log.log', level=logging.DEBUG, 
+                    format='%(asctime)s - %(levelname)s - %(message)s')
 
-# open an infiinite loop
+destIP = str(input("Enter a target IP: "))
+logging.info(f"Ok, pinging {destIP}")
+
+# Open an infinite loop
 while True:
-    # do the ping and capture the output
-    pingResult = subprocess.run(f"ping -c 1 {destIP} | awk '/received/{{print $4}}'", shell=True, stdout=subprocess.PIPE, text=True)
+    try:
+        # Do the ping and capture the output
+        pingResult = subprocess.run(f"ping -c 1 {destIP} | awk '/received/{{print $4}}'", shell=True, stdout=subprocess.PIPE, text=True)
 
-    # define time right now
-    t1 = datetime.now().strftime("%d-%m-%y %H:%M:%S")
+        # Define time right now
+        t1 = datetime.now().strftime("%d-%m-%y %H:%M:%S")
 
-    # assess result
-    if pingResult.returncode == 0:
-        result_value = int(pingResult.stdout.strip())
+        # Assess result
+        if pingResult.returncode == 0:
+            result_value = int(pingResult.stdout.strip())
 
-        if result_value == 0:
-            result = "Failed to ping"
+            if result_value == 0:
+                result = "Failed to ping"
+                logging.warning(f"As of {t1} - {result} {destIP}")
 
-        elif result_value == 1:
-            result = "Successfully pinged"
+            elif result_value == 1:
+                result = "Successfully pinged"
+                logging.info(f"As of {t1} - {result} {destIP}")
+
+            else:
+                logging.error("Error interpreting ping result")
+                result = "Error pinging"
 
         else:
-            print("Error interpreting ping result")
-            result = "Error pinging"
+            logging.error("Error running ping command")
+            result = "Error"
 
-    else:
-        print("Error running ping command")
-        result = "Error"
+    except Exception as e:
+        logging.error(f"An exception occurred: {e}")
 
-    # print the time for the ping and the result
-    print("As of",t1,result,destIP,"\n")
-    
-    # wait 2 seconds
+    # Wait 2 seconds
     time.sleep(2)
 
 
