@@ -33,19 +33,23 @@ while True:
 
             if result_value == 0:
                 result = "Failed to ping"
+                print(result)
                 logging.warning(f"As of {t1} - {result} {destIP}")
 
             elif result_value == 1:
                 result = "Successfully pinged"
+                print(result)
                 logging.info(f"As of {t1} - {result} {destIP}")
 
             else:
                 logging.error("Error interpreting ping result")
                 result = "Error pinging"
+                print(result)
 
         else:
             logging.error("Error running ping command")
             result = "Error"
+            print(result)
 
     except Exception as e:
         logging.error(f"An exception occurred: {e}")
