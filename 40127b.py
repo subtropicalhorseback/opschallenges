@@ -17,12 +17,12 @@ import logging  # Import the logging module
 from logging.handlers import TimedRotatingFileHandler  # Import for time-based rotation
 from datetime import datetime  # Import for timestamping 
 import time  # Import for delays
-importsubprocess  # Import for running external commands 
+import subprocess  # Import for running external commands 
 import argparse  # Import for command-line argument handling
 import re  # Import for regular expression-based IP validation
 
 def is_valid_ip(ip):
-    """Validatesan IP address (IPv4 format)."""  # Function definition comment
+    """Validates an IP address (IPv4 format)."""  # Function definition comment
     pattern = r"^(([0-9]|[1-9][0-9]|1[0-9]{2}|2[0-4][0-9]|25[0-5])\.){3}([0-9]|[1-9][0-9]|1[0-9]{2}|2[0-4][0-9]|25[0-5])$"
     return bool(re.match(pattern, ip))  # Returns True if the IP matches the pattern
 
