@@ -1,7 +1,6 @@
 #!/usr/bin/python3'
 
-import hashlib, os, time
-from datetime import datetime
+import hashlib, os, subprocess, time
 
 
 
@@ -197,11 +196,10 @@ def enumerate_files(selected_directory):
     return file_paths
 
     
-
 def process_files(file_paths):
     # Running counters
     total_files = 0
-    found_hits = 0
+    hash_list = []
 
     for path in file_paths:
         try:
@@ -223,8 +221,8 @@ def process_files(file_paths):
             # saving the output md5 hash for the file as a variable
             hash_var = (md5_hash.hexdigest())
             
-            found_hits += 1
-            print(f"\nhit number {found_hits}: {path} | md5 hash = {hash_var}")
+            hash_list.append(hash_var)
+            print(f"\n{path} | md5 hash = {hash_var}")
 
         except Exception as e:
             print(f"Error processing file: {path}. Reason: {e}")
@@ -234,7 +232,28 @@ def process_files(file_paths):
             # count files processed
             total_files += 1
 
-    return total_files, found_hits
+    return total_files, hash_list
+
+def vt_search(hash_list):
+    apikey = os.getenv('API_KEY_VIRUSTOTAL')
+    script_path = '/home/opslab/Documents/ops401/search-VT-40133.py'
+
+    for item in hash_list:
+        print(f"sending VirusTotal API request for {item}\n")
+        # Construct the command with the correct arguments
+        command = ['python3', script_path, '-m', item, '-k', apikey]
+        
+        # Execute the command and capture the output
+        result = subprocess.run(command, capture_output=True, text=True)
+        
+        if result.returncode == 0:
+            # Print the standard output of search-VT-40133.py
+            print(result.stdout,"\n\n")
+        else:
+            # If there was an error, print the standard error output
+            print(f"Error executing search-VT-40133.py for {item}: {result.stderr}")
+        
+        time.sleep(2)
 
 def main():
     selected_directory = search_for_directory()
@@ -242,8 +261,15 @@ def main():
         print(f"\nSelected directory: {selected_directory}\n")
         time.sleep(1)
         file_paths = enumerate_files(selected_directory)
-        total_files, found_hits = process_files(file_paths)
-        print(f"\nSearch completed. Total files searched: {total_files}. Found hits: {found_hits}.")
+        total_files, hash_list = process_files(file_paths)
+        print(f"\nInitial search completed. Total files searched: {total_files}.")
+
+        if not ('/VirusTotal_SearchResults'):
+            os.mkdir('./VirusTotal_SearchResults')
+            
+        print("\nBeginning VirusTotal search for hash list.\n")
+        vt_search(hash_list)
+
     else:
         print("No directory selected.")
 
